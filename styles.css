@@ -42,7 +42,7 @@ nav {
   padding: 0; border-bottom: 1px solid #222;
 }
 .nav-inner { width: 100%; display: flex; align-items: center; justify-content: space-between; }
-.nav-brand { display: flex; align-items: center; gap: 16px; margin-left: 40px; }
+.nav-brand { display: flex; align-items: center; gap: 16px; margin-left: 40px; flex-shrink: 0; }
 
 /* Accenture Logo */
 .acn-logo { display: flex; align-items: center; gap: 8px; }
@@ -59,7 +59,7 @@ nav {
 }
 .acn-logo-text { font-size: 14px; font-weight: 700; color: var(--acn-white); letter-spacing: 0.08em; text-transform: uppercase; }
 
-.nav-divider { width: 1px; height: 20px; background: #444; }
+.nav-divider { width: 1px; height: 20px; background: #444; flex-shrink: 0; }
 
 /* Beijing Gas Logo */
 .bjgas-logo { display: flex; align-items: center; gap: 8px; }
@@ -78,7 +78,26 @@ nav {
 .bjgas-logo-text { font-size: 13px; font-weight: 500; color: rgba(255,255,255,0.8); }
 
 /* Tab Navigation */
-.nav-tabs { display: flex; align-items: center; gap: 0; margin-right: 40px; }
+.nav-tabs-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1;
+  overflow: hidden;
+  margin-right: 40px;
+}
+.nav-tabs {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none; /* Firefox */
+}
+.nav-tabs::-webkit-scrollbar {
+  display: none; /* Chrome/Safari */
+}
 .nav-tab {
   height: 60px; padding: 0 18px;
   font-size: 12px; font-weight: 500; color: rgba(255,255,255,0.55);
@@ -86,6 +105,7 @@ nav {
   display: flex; align-items: center;
   border-bottom: 2px solid transparent;
   transition: var(--transition); cursor: pointer; white-space: nowrap;
+  flex-shrink: 0;
 }
 .nav-tab:hover, .nav-tab.active { color: var(--acn-white); border-bottom-color: var(--acn-purple); }
 
@@ -388,8 +408,10 @@ footer { background: #050505; border-top: 1px solid #1a1a1a; padding: 28px 48px;
   .contact-layout { grid-template-columns: 1fr; }
   .bi-grid { grid-template-columns: 1fr; }
   .curve-grid { grid-template-columns: 1fr; }
-  nav { padding: 0 16px; }
-  .nav-tabs { display: none; }
+  nav { padding: 0 12px; }
+  .nav-brand { margin-left: 12px; }
+  .nav-tabs-wrapper { margin-right: 12px; }
+  .nav-brand img { max-width: 100px; }
 }
 @media (max-width: 640px) {
   .hero { padding: 60px 16px; }
@@ -397,6 +419,14 @@ footer { background: #050505; border-top: 1px solid #1a1a1a; padding: 28px 48px;
   .form-row { grid-template-columns: 1fr; }
   .info-cards-grid { grid-template-columns: 1fr; }
   .meeting-toc { grid-template-columns: 1fr 1fr; }
+  
+  /* 移动端导航优化 */
+  .nav-brand { margin-left: 8px; gap: 10px; }
+  .nav-divider { height: 16px; }
+  .bjgas-logo img { width: 90px; height: 36px; margin-left: -5px; }
+  .acn-logo img { width: 22px; height: 24px; margin-left: 20px; }
+  .nav-tabs-wrapper { margin-right: 8px; }
+  .nav-tab { padding: 0 14px; font-size: 11px; }
 }
 
 /* 新增内容样式 */
