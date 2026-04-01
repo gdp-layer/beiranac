@@ -1,0 +1,1664 @@
+<!-- ═══════════════════════════════════ FUTURE SERVICE MODEL ═══════════════════════════════════ -->
+<div id="future-service" class="page-section">
+  <div style="background:var(--acn-white)">
+    <div class="container">
+      <div class="section-block">
+        <div class="section-eyebrow reveal">未来客服模式</div>
+        <h1 class="section-h1 reveal">从「接诉处置」到「服务生态」<br>从「燃气供应商」走向「综合能源与安全服务首选入口」</h1>
+        <p class="section-lead reveal">北燃未来客户服务模式重塑 —— 以安全为底线、以用户为起点、以现场为抓手、以数据为底座、以协同为机制的一体化服务运营</p>
+        <!-- ═══════════════════════════════════ 引导：三十辐共一毂 ═══════════════════════════════════ -->
+        <div style="margin-top:80px;margin-bottom:80px" class="reveal">
+          <!-- 顶部标题区 -->
+          <div style="text-align:center;margin-bottom:64px">
+            <div style="font-size:12px;font-weight:700;color:var(--acn-purple);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:16px">GUIDING PRINCIPLES</div>
+            <h2 style="font-size:36px;font-weight:700;color:var(--acn-black);line-height:1.3;margin-bottom:24px">引导 · 三十辐共一毂</h2>
+            <div style="width:60px;height:3px;background:var(--acn-purple);margin:0 auto"></div>
+          </div>
+          
+          <!-- 核心内容区 - 采用对称式布局 -->
+          <div style="position:relative;max-width:1400px;margin:0 auto">
+            <!-- 中央垂直轴线 -->
+            <div style="position:absolute;left:50%;top:0;bottom:0;width:2px;background:linear-gradient(to bottom,transparent,var(--acn-purple),transparent);transform:translateX(-50%);opacity:0.3"></div>
+            
+            <!-- 第一行：左侧引用 -->
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:60px;margin-bottom:80px;position:relative">
+              <div style="position:relative;z-index:1">
+                <div style="padding:40px;background:var(--acn-white);border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.08);border-left:4px solid var(--acn-purple)">
+                  <div style="font-size:48px;color:var(--acn-purple);line-height:1;margin-bottom:24px;font-family:'Noto Serif SC',serif;font-weight:300">"</div>
+                  <div style="font-size:18px;color:var(--acn-black);line-height:1.8;font-weight:500;margin-bottom:24px;font-family:'Noto Serif SC',serif">
+                    三十辐共一毂，当其无，有车之用。
+                  </div>
+                  <div style="font-size:13px;color:var(--acn-gray);letter-spacing:0.1em">— 道德经 第十一章</div>
+                </div>
+              </div>
+              
+              <!-- 中央连接符 -->
+              <div style="position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:40px;height:40px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;z-index:2;box-shadow:0 4px 16px rgba(161,0,255,0.3)">
+                <div style="font-size:20px;color:white;font-weight:700">→</div>
+              </div>
+              
+              <!-- 右侧解读 -->
+              <div style="display:flex;flex-direction:column;gap:24px;justify-content:center">
+                <div style="padding:32px;background:rgba(161,0,255,0.04);border-radius:12px;border-left:3px solid var(--acn-purple)">
+                  <div style="font-size:14px;color:var(--acn-dark);line-height:1.8;margin-bottom:16px">
+                    北燃今天并不缺"辐"——热线、营业厅、现场服务、安检、抢修、CRM、计费、营销、主数据、政务协同，都在各自运转
+                  </div>
+                  <div style="font-size:15px;color:var(--acn-black);line-height:1.6;font-weight:600">
+                    真正缺的，是那个把各条业务真正拢成一体的"毂"
+                  </div>
+                </div>
+                <div style="padding:24px;background:var(--acn-black);border-radius:12px;color:rgba(255,255,255,0.9)">
+                  <div style="font-size:13px;line-height:1.8">
+                    这个"毂"，不是再上一个系统，而是一套未来客户服务模式。<br>
+                    它决定的，不只是客服效率，而是北燃能否把用户、安全、现场、政府协同和第二增长曲线连成一张网。
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <!-- 第二行：核心洞察 -->
+            <div style="margin:80px 0">
+              <div style="text-align:center;margin-bottom:40px">
+                <div style="display:inline-flex;align-items:center;gap:12px;padding:12px 32px;background:var(--acn-purple);border-radius:50px;color:white;font-size:13px;font-weight:700;letter-spacing:0.15em">
+                  <div style="width:8px;height:8px;background:white;border-radius:50%"></div>
+                  核心洞察
+                  <div style="width:8px;height:8px;background:white;border-radius:50%"></div>
+                </div>
+              </div>
+              
+              <div style="padding:48px;background:linear-gradient(135deg,rgba(161,0,255,0.08) 0%,rgba(0,0,0,0.02) 100%);border-radius:16px;border:1px solid rgba(161,0,255,0.2);position:relative;overflow:hidden">
+                <!-- 装饰性背景元素 -->
+                <div style="position:absolute;top:-100px;right:-100px;width:300px;height:300px;background:radial-gradient(circle,rgba(161,0,255,0.1) 0%,transparent 70%);border-radius:50%"></div>
+                <div style="position:absolute;bottom:-80px;left:-80px;width:240px;height:240px;background:radial-gradient(circle,rgba(0,0,0,0.05) 0%,transparent 70%);border-radius:50%"></div>
+                
+                <div style="position:relative;z-index:1;text-align:center">
+                  <div style="font-size:18px;color:var(--acn-dark);line-height:1.8;margin-bottom:24px">
+                    今天看客户服务，已经不把它当"后台支持"
+                  </div>
+                  <div style="font-size:24px;color:var(--acn-black);line-height:1.6;font-weight:700;margin-bottom:32px;padding:32px;background:var(--acn-white);border-radius:12px;box-shadow:0 4px 24px rgba(0,0,0,0.06);border:2px solid var(--acn-purple)">
+                    而把它当成<strong style="color:var(--acn-purple)">企业最靠近市场</strong>、<strong style="color:var(--acn-purple)">最先感知风险</strong>、<strong style="color:var(--acn-purple)">最能沉淀数据</strong>、<strong style="color:var(--acn-purple)">最容易形成增长闭环</strong>的前台发动机
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <!-- 第三行：战略问题 -->
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:60px;align-items:center;position:relative">
+              <div style="position:relative;z-index:1">
+                <div style="padding:40px;background:var(--acn-black);border-radius:12px;color:white;position:relative;overflow:hidden">
+                  <div style="position:absolute;top:0;right:0;width:120px;height:120px;background:radial-gradient(circle,rgba(161,0,255,0.3) 0%,transparent 70%);opacity:0.5"></div>
+                  <div style="position:relative;z-index:1">
+                    <div style="font-size:13px;color:rgba(255,255,255,0.6);margin-bottom:16px;letter-spacing:0.1em">STRATEGIC QUESTION</div>
+                    <div style="font-size:18px;line-height:1.8;font-weight:500">
+                      北燃这次不是做"客服优化"，而是在回答一个更大的问题：
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- 中央连接箭头 -->
+              <div style="position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:60px;height:4px;background:linear-gradient(to right,var(--acn-purple),transparent);z-index:2"></div>
+              
+              <div style="position:relative;z-index:1">
+                <div style="padding:40px;background:var(--acn-purple);border-radius:12px;color:white;position:relative;overflow:hidden">
+                  <div style="position:absolute;bottom:0;left:0;width:100px;height:100px;background:radial-gradient(circle,rgba(255,255,255,0.2) 0%,transparent 70%);opacity:0.3"></div>
+                  <div style="position:relative;z-index:1">
+                    <div style="font-size:18px;line-height:1.8;font-weight:600;margin-bottom:16px">
+                      面向未来五年，北燃要用什么样的服务体系
+                    </div>
+                    <div style="font-size:20px;line-height:1.6;font-weight:700;padding:20px;background:rgba(255,255,255,0.15);border-radius:8px">
+                      支撑主业守正、增量突破、治理协同
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- 六大趋势判断 -->
+        <div style="margin-top:64px" class="reveal">
+          <div class="section-eyebrow">趋势研判</div>
+          <h2 class="section-h2">六大趋势判断</h2>
+          <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:24px;margin-top:32px">
+            <div style="padding:32px;background:rgba(161,0,255,0.06);border-left:4px solid var(--acn-purple);border-radius:8px">
+              <div style="font-size:14px;font-weight:700;color:var(--acn-purple);margin-bottom:12px">判断一</div>
+              <div style="font-size:16px;font-weight:700;color:var(--acn-black);margin-bottom:8px">客户服务正在从成本中心，变成价值中枢</div>
+              <div style="font-size:13px;color:var(--acn-gray);line-height:1.8">服务正在从传统 Call Center/Contact Center，走向更高阶段的"Customer Insight Hub/Value Engine"——既解决问题，又沉淀洞察、驱动增长、反哺全链路运营。对公用事业而言，服务不仅创造体验，更创造信任、可达性与治理协同。</div>
+            </div>
+            <div style="padding:32px;background:rgba(161,0,255,0.06);border-left:4px solid var(--acn-purple);border-radius:8px">
+              <div style="font-size:14px;font-weight:700;color:var(--acn-purple);margin-bottom:12px">判断二</div>
+              <div style="font-size:16px;font-weight:700;color:var(--acn-black);margin-bottom:8px">北燃未来服务的边界，已经不再是"热线 + 工单"</div>
+              <div style="font-size:13px;color:var(--acn-gray);line-height:1.8">北燃未来服务对象，不再只是"一个来电用户"，而是用户 + 地址 + 设备 + 资产 + 合同 + 服务协议 + 风险责任的复合体。</div>
+            </div>
+            <div style="padding:32px;background:rgba(161,0,255,0.06);border-left:4px solid var(--acn-purple);border-radius:8px">
+              <div style="font-size:14px;font-weight:700;color:var(--acn-purple);margin-bottom:12px">判断三</div>
+              <div style="font-size:16px;font-weight:700;color:var(--acn-black);margin-bottom:8px">第二发展曲线会倒逼客服升级为"履约中枢"</div>
+              <div style="font-size:13px;color:var(--acn-gray);line-height:1.8">一旦北燃向综合能源、商业客户、园区场景、数据中心保障、设备托管、延伸服务拓展，服务就不再是"答疑解惑"，而是合同履约、风险监控、主动运营和关系经营。未来客服不是末端，而是前台经营界面。</div>
+            </div>
+            <div style="padding:32px;background:rgba(161,0,255,0.06);border-left:4px solid var(--acn-purple);border-radius:8px">
+              <div style="font-size:14px;font-weight:700;color:var(--acn-purple);margin-bottom:12px">判断四</div>
+              <div style="font-size:16px;font-weight:700;color:var(--acn-black);margin-bottom:8px">现场服务和安全运营，必须进入同一个故事</div>
+              <div style="font-size:13px;color:var(--acn-gray);line-height:1.8">未来现场服务的核心，不是简单派工，而是围绕调度优化、技师赋能、预测维护、透明履约和新收入流进行整体重构。安全不能作为客服的后置约束，必须成为服务模式的内生规则。</div>
+            </div>
+            <div style="padding:32px;background:rgba(161,0,255,0.06);border-left:4px solid var(--acn-purple);border-radius:8px">
+              <div style="font-size:14px;font-weight:700;color:var(--acn-purple);margin-bottom:12px">判断五</div>
+              <div style="font-size:16px;font-weight:700;color:var(--acn-black);margin-bottom:8px">北燃当前最缺的不是"功能"，而是"统一枢纽"</div>
+              <div style="font-size:13px;color:var(--acn-gray);line-height:1.8">真正缺的不是再加几个功能模块，而是：统一的场景、统一的主数据、统一的空间视图、统一的指挥机制。把热线、现场、安全、计费、营销、政府协同的语言翻译成一套共同运营语言的中枢。</div>
+            </div>
+            <div style="padding:32px;background:rgba(161,0,255,0.06);border-left:4px solid var(--acn-purple);border-radius:8px">
+              <div style="font-size:14px;font-weight:700;color:var(--acn-purple);margin-bottom:12px">判断六</div>
+              <div style="font-size:16px;font-weight:700;color:var(--acn-black);margin-bottom:8px">AI 很重要，但 AI 不是"器"，是"道"</div>
+              <div style="font-size:13px;color:var(--acn-gray);line-height:1.8">真正领先的转型不是单点 AI，而是多技术协同、组织能力重构和规模化运营模式重塑。没有主数据、没有统一案例模型、没有安全边界、没有组织协同，再强的大模型也只是把低质量流程自动化。</div>
+            </div>
+          </div>
+      </div>          
+    </div>          
+        <div style="margin-top:64px" class="reveal">
+          <div class="section-eyebrow">核心诊断</div>
+          <h2 class="section-h2">四大核心诊断</h2>
+          
+          <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:24px;margin-top:32px">
+            <!-- 诊断一：服务，正在成为企业新的经营语言 -->
+            <div style="padding:32px;background:rgba(161,0,255,0.04);border-radius:8px">
+              <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:20px">
+                <div style="width:40px;height:40px;background:var(--acn-purple);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+                  <div style="font-family:'DM Mono',monospace;font-size:16px;font-weight:700;color:white">1</div>
+                </div>
+                <div style="flex:1">
+                  <div style="font-size:16px;font-weight:700;color:var(--acn-dark);margin-bottom:16px">服务，正在成为企业新的经营语言</div>
+                  <div style="display:grid;grid-template-columns:1fr;gap:12px">
+                    <div style="padding:16px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.6">客户期望在抬升，服务标准被互联网和公共服务共同拉高</div>
+                    </div>
+                    <div style="padding:16px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.6">城市治理在升级，国企服务不再只是企业行为，而是治理能力的一部分</div>
+                    </div>
+                    <div style="padding:16px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.6">第二增长曲线正在出现，服务开始直接连接收入、续约和增值机会</div>
+                    </div>
+                    <div style="padding:16px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.6"><strong>过去，服务是成本；今天，服务是能力；未来，服务是增长和治理的共同接口</strong></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <!-- 诊断二：燃气行业的未来服务，不会是"更快接电话" -->
+            <div style="padding:32px;background:rgba(161,0,255,0.04);border-radius:8px">
+              <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:20px">
+                <div style="width:40px;height:40px;background:var(--acn-purple);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+                  <div style="font-family:'DM Mono',monospace;font-size:16px;font-weight:700;color:white">3</div>
+                </div>
+                <div style="flex:1">
+                  <div style="font-size:16px;font-weight:700;color:var(--acn-dark);margin-bottom:16px">燃气行业的未来服务，不会是“更快接电话”</div>
+                  <div style="display:grid;grid-template-columns:1fr;gap:16px">
+                    <div style="padding:20px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8;margin-bottom:12px">燃气不是普通消费品行业。它有三个天然特征：<strong>高安全性、高属地性、高协同性</strong>。</div>
+                    </div>
+                    <div style="padding:20px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8">燃气行业未来服务模式，一定不是学互联网客服，而是形成一种更复合的能力：</div>
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8"><strong>对用户</strong>，是体验与信任</div>
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8"><strong>对现场</strong>，是调度与履约</div>
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8"><strong>对安全</strong>，是预警与闭环</div>
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8"><strong>对政府</strong>，是协同与透明</div>
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8"><strong>对经营</strong>，是洞察与增收</div>
+                    </div>
+                    <div style="padding:20px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8"><strong>燃气客服的本质，不是“服务台”，而是“服务运营台”</strong></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <!-- 诊断三：北燃已具备很多能力，但还没有形成一个统一的"枢" -->
+            <div style="padding:32px;background:rgba(161,0,255,0.04);border-radius:8px">
+              <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:20px">
+                <div style="width:40px;height:40px;background:var(--acn-purple);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+                  <div style="font-family:'DM Mono',monospace;font-size:16px;font-weight:700;color:white">3</div>
+                </div>
+                <div style="flex:1">
+                  <div style="font-size:16px;font-weight:700;color:var(--acn-dark);margin-bottom:16px">北燃已具备很多能力，但还没有形成一个统一的"枢"</div>
+                  <div style="display:grid;grid-template-columns:1fr;gap:16px">
+                    <div style="padding:20px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8;margin-bottom:12px">北燃现在的问题，不是没有能力点，而是能力点之间还没有形成统一经营逻辑。</div>
+                    </div>
+                    <div style="padding:20px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8">热线有热线的语言，现场有现场的语言，安全有安全的语言，计费有计费的语言，营销有营销的语言，政府协同也有自己的语言。</div>
+                    </div>
+                    <div style="padding:20px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8"><strong>现在缺的，是把这些语言翻译成一套共同运营语言的中枢。</strong></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <!-- 诊断四：从客服中心，升级为"首都燃气服务运营生态" -->
+            <div style="padding:32px;background:rgba(161,0,255,0.04);border-radius:8px">
+              <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:20px">
+                <div style="width:40px;height:40px;background:var(--acn-purple);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+                  <div style="font-family:'DM Mono',monospace;font-size:16px;font-weight:700;color:white">4</div>
+                </div>
+                <div style="flex:1">
+                  <div style="font-size:16px;font-weight:700;color:var(--acn-dark);margin-bottom:16px">从客服中心，升级为"首都燃气服务运营生态"</div>
+                  <div style="display:grid;grid-template-columns:1fr;gap:16px">
+                    <div style="padding:20px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8">北燃未来客户服务模式 = <strong>以安全为底线、以用户为起点、以现场为抓手、以数据为底座、以协同为机制</strong>的一体化服务运营</div>
+                    </div>
+                    <div style="padding:20px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8">让服务从"被动响应的窗口"，升级为<strong>"主动运营的引擎"</strong></div>
+                    </div>
+                    <div style="padding:20px;background:var(--acn-white);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                      <div style="font-size:14px;color:var(--acn-dark);line-height:1.8">让客服从"工单流转的起点"，升级为<strong>"企业感知与调度的中枢"</strong></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ══════════════════════════════════════════════════════════
+             六位一体体系 · 完整展开
+        ══════════════════════════════════════════════════════════ -->
+        <div style="margin-top:80px" class="reveal">
+          <div class="section-eyebrow">未来客服架构</div>
+          <h2 class="section-h2">六位一体体系</h2>
+          <p style="font-size:16px;color:var(--acn-gray);line-height:1.8;margin-top:16px;margin-bottom:48px;max-width:900px">
+            形成"组织可协同、流程可编排、标准可复制、地图可运营、数据可决策"的一体化服务体系
+          </p>
+
+          <!-- ── 六位一体导航索引 ── -->
+          <div style="display:grid;grid-template-columns:repeat(6,1fr);gap:1px;background:var(--acn-gray-light);margin-bottom:64px">
+            <div style="background:var(--acn-black);padding:24px 16px;text-align:center;cursor:pointer" onclick="document.getElementById('sys-xing').scrollIntoView({behavior:'smooth'})">
+              <div style="font-family:'DM Mono',monospace;font-size:28px;font-weight:700;color:var(--acn-purple);margin-bottom:8px">形</div>
+              <div style="font-size:11px;color:rgba(255,255,255,0.6);letter-spacing:0.05em">总体形态</div>
+            </div>
+            <div style="background:var(--acn-black);padding:24px 16px;text-align:center;cursor:pointer" onclick="document.getElementById('sys-hun').scrollIntoView({behavior:'smooth'})">
+              <div style="font-family:'DM Mono',monospace;font-size:28px;font-weight:700;color:var(--acn-purple);margin-bottom:8px">魂</div>
+              <div style="font-size:11px;color:rgba(255,255,255,0.6);letter-spacing:0.05em">AI统一大脑</div>
+            </div>
+            <div style="background:var(--acn-black);padding:24px 16px;text-align:center;cursor:pointer" onclick="document.getElementById('sys-gujia').scrollIntoView({behavior:'smooth'})">
+              <div style="font-family:'DM Mono',monospace;font-size:28px;font-weight:700;color:var(--acn-purple);margin-bottom:8px">骨架</div>
+              <div style="font-size:11px;color:rgba(255,255,255,0.6);letter-spacing:0.05em">三层一支撑</div>
+            </div>
+            <div style="background:var(--acn-black);padding:24px 16px;text-align:center;cursor:pointer" onclick="document.getElementById('sys-jingluo').scrollIntoView({behavior:'smooth'})">
+              <div style="font-family:'DM Mono',monospace;font-size:28px;font-weight:700;color:var(--acn-purple);margin-bottom:8px">经络</div>
+              <div style="font-size:11px;color:rgba(255,255,255,0.6);letter-spacing:0.05em">流程编排</div>
+            </div>
+            <div style="background:var(--acn-black);padding:24px 16px;text-align:center;cursor:pointer" onclick="document.getElementById('sys-jinmo').scrollIntoView({behavior:'smooth'})">
+              <div style="font-family:'DM Mono',monospace;font-size:28px;font-weight:700;color:var(--acn-purple);margin-bottom:8px">筋膜</div>
+              <div style="font-size:11px;color:rgba(255,255,255,0.6);letter-spacing:0.05em">标准体系</div>
+            </div>
+            <div style="background:var(--acn-black);padding:24px 16px;text-align:center;cursor:pointer" onclick="document.getElementById('sys-yanjing').scrollIntoView({behavior:'smooth'})">
+              <div style="font-family:'DM Mono',monospace;font-size:28px;font-weight:700;color:var(--acn-purple);margin-bottom:8px">眼睛</div>
+              <div style="font-size:11px;color:rgba(255,255,255,0.6);letter-spacing:0.05em">地图运营</div>
+            </div>
+          </div>
+
+          <!-- ══════════════════════════════════════════════════════════
+               形 · 总体形态
+          ══════════════════════════════════════════════════════════ -->
+          <div id="sys-xing" style="margin-bottom:80px">
+            <!-- 标题行 -->
+            <div style="display:flex;align-items:center;gap:20px;margin-bottom:32px;padding-bottom:20px;border-bottom:2px solid var(--acn-gray-light)">
+              <div style="width:64px;height:64px;background:var(--acn-black);border-radius:12px;display:flex;align-items:center;justify-content:center;flex-shrink:0;box-shadow:0 8px 24px rgba(161,0,255,0.3)">
+                <span style="font-family:'Noto Serif SC',serif;font-size:28px;font-weight:900;color:var(--acn-purple)">形</span>
+              </div>
+              <div>
+                <div style="font-family:'DM Mono',monospace;font-size:11px;color:var(--acn-purple);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:4px">FORM · 01</div>
+                <div style="font-family:'Noto Serif SC',serif;font-size:28px;font-weight:700;color:var(--acn-black)">总体形态</div>
+              </div>
+              <div style="margin-left:auto;max-width:480px;font-size:13px;color:var(--acn-gray);line-height:1.8;text-align:right">
+                未来北燃的竞争力，不在于有没有更多坐席，而在于能不能用同一套逻辑，把呼叫、现场、安全、经营和政企协同贯成一体
+              </div>
+            </div>
+
+            <!-- 四大支柱 -->
+            <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--acn-gray-light);margin-bottom:32px">
+              <!-- 一脑统筹 -->
+              <div style="background:var(--acn-white);padding:32px 24px;border-top:4px solid var(--acn-purple);transition:all 0.3s" onmouseover="this.style.background='#f7f7f7'" onmouseout="this.style.background='#fff'">
+                <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.2em;margin-bottom:12px">PILLAR 01</div>
+                <div style="font-size:18px;font-weight:700;color:var(--acn-black);margin-bottom:16px">一脑统筹</div>
+                <div style="font-size:13px;font-weight:600;color:var(--acn-dark);margin-bottom:12px">统一服务大脑</div>
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="padding:10px 12px;background:rgba(161,0,255,0.04);border-left:2px solid var(--acn-purple);font-size:12px;color:var(--acn-gray);line-height:1.6">
+                    不是聊天机器人，要打造统一判断与编排中枢
+                  </div>
+                  <div style="padding:10px 12px;background:rgba(161,0,255,0.04);border-left:2px solid var(--acn-purple);font-size:12px;color:var(--acn-gray);line-height:1.6">
+                    负责识别诉求、判断风险、匹配资源、推荐动作、生成协同任务
+                  </div>
+                </div>
+              </div>
+
+              <!-- 一图感知 -->
+              <div style="background:var(--acn-white);padding:32px 24px;border-top:4px solid var(--acn-purple);transition:all 0.3s" onmouseover="this.style.background='#f7f7f7'" onmouseout="this.style.background='#fff'">
+                <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.2em;margin-bottom:12px">PILLAR 02</div>
+                <div style="font-size:18px;font-weight:700;color:var(--acn-black);margin-bottom:16px">一图感知</div>
+                <div style="font-size:13px;font-weight:600;color:var(--acn-dark);margin-bottom:12px">地图即管理界面</div>
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="padding:10px 12px;background:rgba(161,0,255,0.04);border-left:2px solid var(--acn-purple);font-size:12px;color:var(--acn-gray);line-height:1.6">
+                    地图不再只是GIS展示层，而要成为北燃未来服务运营的管理界面
+                  </div>
+                  <div style="padding:10px 12px;background:rgba(161,0,255,0.04);border-left:2px solid var(--acn-purple);font-size:12px;color:var(--acn-gray);line-height:1.6">
+                    把客户、地址、表具、设备、管网、风险点、抢修资源、属地网格、敏感场所放到一张图上
+                  </div>
+                  <div style="padding:10px 12px;background:rgba(161,0,255,0.08);border-left:2px solid var(--acn-purple);font-size:12px;color:var(--acn-dark);line-height:1.6;font-weight:600">
+                    从"位置可视化"升级为"运营可计算"
+                  </div>
+                </div>
+              </div>
+
+              <!-- 一案贯通 -->
+              <div style="background:var(--acn-white);padding:32px 24px;border-top:4px solid var(--acn-purple);transition:all 0.3s" onmouseover="this.style.background='#f7f7f7'" onmouseout="this.style.background='#fff'">
+                <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.2em;margin-bottom:12px">PILLAR 03</div>
+                <div style="font-size:18px;font-weight:700;color:var(--acn-black);margin-bottom:16px">一案贯通</div>
+                <div style="font-size:13px;font-weight:600;color:var(--acn-dark);margin-bottom:12px">统一Case贯穿到底</div>
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="padding:10px 12px;background:rgba(161,0,255,0.04);border-left:2px solid var(--acn-purple);font-size:12px;color:var(--acn-gray);line-height:1.6">
+                    未来不能再是"一个来电一张工单、一个部门一个处理"
+                  </div>
+                  <div style="padding:10px 12px;background:rgba(161,0,255,0.04);border-left:2px solid var(--acn-purple);font-size:12px;color:var(--acn-gray);line-height:1.6">
+                    从"工单思维"升级为"Case思维"
+                  </div>
+                  <div style="padding:10px 12px;background:rgba(161,0,255,0.04);border-left:2px solid var(--acn-purple);font-size:12px;color:var(--acn-gray);line-height:1.6">
+                    一个Case下可以拆解多个任务、多个现场动作、多个责任边界，但对外只有一个责任主体、一个进度口径、一个闭环结果
+                  </div>
+                </div>
+              </div>
+
+              <!-- 一网协同 -->
+              <div style="background:var(--acn-white);padding:32px 24px;border-top:4px solid var(--acn-purple);transition:all 0.3s" onmouseover="this.style.background='#f7f7f7'" onmouseout="this.style.background='#fff'">
+                <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.2em;margin-bottom:12px">PILLAR 04</div>
+                <div style="font-size:18px;font-weight:700;color:var(--acn-black);margin-bottom:16px">一网协同</div>
+                <div style="font-size:13px;font-weight:600;color:var(--acn-dark);margin-bottom:12px">网格化前线作战单元</div>
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="padding:10px 12px;background:rgba(161,0,255,0.04);border-left:2px solid var(--acn-purple);font-size:12px;color:var(--acn-gray);line-height:1.6">
+                    居民、商服、应急、安全、增值服务，不再各自为战
+                  </div>
+                  <div style="padding:10px 12px;background:rgba(161,0,255,0.04);border-left:2px solid var(--acn-purple);font-size:12px;color:var(--acn-gray);line-height:1.6">
+                    进入网格化、复合型、精兵式服务网络
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- 形·总结语 -->
+            <div style="background:var(--acn-black);padding:32px 40px;border-radius:4px;display:flex;align-items:center;gap:24px">
+              <div style="width:4px;height:60px;background:var(--acn-purple);flex-shrink:0;border-radius:2px"></div>
+              <div style="font-size:15px;color:rgba(255,255,255,0.85);line-height:1.8;font-weight:300">
+                未来北燃的竞争力，不在于有没有更多坐席，而在于能不能用同一套逻辑，把<strong style="color:var(--acn-purple)">呼叫、现场、安全、经营和政企协同</strong>贯成一体
+              </div>
+            </div>
+          </div>
+
+          <!-- ══════════════════════════════════════════════════════════
+               魂 · AI统一大脑
+          ══════════════════════════════════════════════════════════ -->
+          <div id="sys-hun" style="margin-bottom:80px">
+            <div style="display:flex;align-items:center;gap:20px;margin-bottom:32px;padding-bottom:20px;border-bottom:2px solid var(--acn-gray-light)">
+              <div style="width:64px;height:64px;background:var(--acn-black);border-radius:12px;display:flex;align-items:center;justify-content:center;flex-shrink:0;box-shadow:0 8px 24px rgba(161,0,255,0.3)">
+                <span style="font-family:'Noto Serif SC',serif;font-size:28px;font-weight:900;color:var(--acn-purple)">魂</span>
+              </div>
+              <div>
+                <div style="font-family:'DM Mono',monospace;font-size:11px;color:var(--acn-purple);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:4px">SOUL · 02</div>
+                <div style="font-family:'Noto Serif SC',serif;font-size:28px;font-weight:700;color:var(--acn-black)">AI 统一大脑</div>
+              </div>
+              <div style="margin-left:auto;max-width:480px;font-size:13px;color:var(--acn-gray);line-height:1.8;text-align:right">
+                AI让北燃第一次有可能把客户、现场、安全、经营与政府协同，放进同一个运营大脑中统一管理
+              </div>
+            </div>
+
+            <!-- AI定位 -->
+            <div style="background:linear-gradient(135deg,rgba(161,0,255,0.08) 0%,rgba(161,0,255,0.02) 100%);padding:40px;border-radius:8px;margin-bottom:32px;border:1px solid rgba(161,0,255,0.15)">
+              <div style="font-size:13px;font-weight:700;color:var(--acn-purple);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:20px">AI 的定位</div>
+              <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:16px;margin-bottom:24px">
+                <div style="text-align:center;padding:16px;background:rgba(255,255,255,0.7);border-radius:6px">
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px;line-height:1.5">AI不是</div>
+                  <div style="font-size:13px;font-weight:700;color:var(--acn-dark)">"外挂工具"</div>
+                </div>
+                <div style="text-align:center;padding:16px;background:rgba(255,255,255,0.7);border-radius:6px">
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px;line-height:1.5">AI不是</div>
+                  <div style="font-size:13px;font-weight:700;color:var(--acn-dark)">"一个机器人"</div>
+                </div>
+                <div style="text-align:center;padding:16px;background:rgba(255,255,255,0.7);border-radius:6px">
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px;line-height:1.5">AI不是</div>
+                  <div style="font-size:13px;font-weight:700;color:var(--acn-dark)">"单点提效器"</div>
+                </div>
+                <div style="text-align:center;padding:20px 16px;background:var(--acn-purple);border-radius:6px;grid-column:span 2">
+                  <div style="font-size:11px;color:rgba(255,255,255,0.7);margin-bottom:6px;line-height:1.5">AI是</div>
+                  <div style="font-size:14px;font-weight:700;color:var(--acn-white)">北燃未来服务模式的统一大脑</div>
+                  <div style="font-size:11px;color:rgba(255,255,255,0.7);margin-top:8px;line-height:1.5">把呼叫、现场、安全、CRM、主数据、计费、营销、地图运营真正连接起来</div>
+                </div>
+              </div>
+            </div>
+
+            <!-- AI解决的根本问题 -->
+            <div style="margin-bottom:32px">
+              <div style="font-size:14px;font-weight:700;color:var(--acn-dark);margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid var(--acn-gray-light)">AI 解决的根本问题</div>
+              <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--acn-gray-light)">
+                <div style="background:var(--acn-white);padding:24px 20px">
+                  <div style="width:32px;height:32px;background:rgba(161,0,255,0.1);border-radius:50%;display:flex;align-items:center;justify-content:center;margin-bottom:12px">
+                    <span style="font-size:14px">→</span>
+                  </div>
+                  <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                  <div style="font-size:13px;font-weight:600;color:var(--acn-dark);margin-bottom:8px">"被动响应"</div>
+                  <div style="font-size:12px;color:var(--acn-purple);font-weight:700">变成"主动感知"</div>
+                </div>
+                <div style="background:var(--acn-white);padding:24px 20px">
+                  <div style="width:32px;height:32px;background:rgba(161,0,255,0.1);border-radius:50%;display:flex;align-items:center;justify-content:center;margin-bottom:12px">
+                    <span style="font-size:14px">→</span>
+                  </div>
+                  <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                  <div style="font-size:13px;font-weight:600;color:var(--acn-dark);margin-bottom:8px">"人工协调"</div>
+                  <div style="font-size:12px;color:var(--acn-purple);font-weight:700">变成"智能编排"</div>
+                </div>
+                <div style="background:var(--acn-white);padding:24px 20px">
+                  <div style="width:32px;height:32px;background:rgba(161,0,255,0.1);border-radius:50%;display:flex;align-items:center;justify-content:center;margin-bottom:12px">
+                    <span style="font-size:14px">→</span>
+                  </div>
+                  <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                  <div style="font-size:13px;font-weight:600;color:var(--acn-dark);margin-bottom:8px">"事后处置"</div>
+                  <div style="font-size:12px;color:var(--acn-purple);font-weight:700">变成"事前预警"</div>
+                </div>
+                <div style="background:var(--acn-white);padding:24px 20px">
+                  <div style="width:32px;height:32px;background:rgba(161,0,255,0.1);border-radius:50%;display:flex;align-items:center;justify-content:center;margin-bottom:12px">
+                    <span style="font-size:14px">→</span>
+                  </div>
+                  <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                  <div style="font-size:13px;font-weight:600;color:var(--acn-dark);margin-bottom:8px">"事务处理"</div>
+                  <div style="font-size:12px;color:var(--acn-purple);font-weight:700">变成"持续经营"</div>
+                </div>
+                <div style="background:var(--acn-white);padding:24px 20px">
+                  <div style="width:32px;height:32px;background:rgba(161,0,255,0.1);border-radius:50%;display:flex;align-items:center;justify-content:center;margin-bottom:12px">
+                    <span style="font-size:14px">→</span>
+                  </div>
+                  <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                  <div style="font-size:13px;font-weight:600;color:var(--acn-dark);margin-bottom:8px">"工单起点"</div>
+                  <div style="font-size:12px;color:var(--acn-purple);font-weight:700">变成"运营中枢"</div>
+                </div>
+              </div>
+            </div>
+
+            <!-- AI三层作用 + AI与人的分工 -->
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:32px">
+              <!-- AI三层作用 -->
+              <div>
+                <div style="font-size:14px;font-weight:700;color:var(--acn-dark);margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid var(--acn-gray-light)">AI 的三层作用</div>
+                <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--acn-gray-light)">
+                  <div style="background:var(--acn-white);padding:24px 16px">
+                    <div style="font-size:13px;font-weight:700;color:var(--acn-purple);margin-bottom:16px;text-align:center;padding-bottom:8px;border-bottom:1px solid rgba(161,0,255,0.15)">感知层</div>
+                    <div style="display:flex;flex-direction:column;gap:8px">
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.04);border-radius:4px;font-size:12px;color:var(--acn-dark);text-align:center">听懂客户</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.04);border-radius:4px;font-size:12px;color:var(--acn-dark);text-align:center">看懂现场</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.04);border-radius:4px;font-size:12px;color:var(--acn-dark);text-align:center">识别风险</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.04);border-radius:4px;font-size:12px;color:var(--acn-dark);text-align:center">发现商机</div>
+                    </div>
+                  </div>
+                  <div style="background:var(--acn-white);padding:24px 16px">
+                    <div style="font-size:13px;font-weight:700;color:var(--acn-purple);margin-bottom:16px;text-align:center;padding-bottom:8px;border-bottom:1px solid rgba(161,0,255,0.15)">判断层</div>
+                    <div style="display:flex;flex-direction:column;gap:8px">
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.04);border-radius:4px;font-size:12px;color:var(--acn-dark);text-align:center">判断轻重缓急</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.04);border-radius:4px;font-size:12px;color:var(--acn-dark);text-align:center">判断风险等级</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.04);border-radius:4px;font-size:12px;color:var(--acn-dark);text-align:center">判断服务策略</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.04);border-radius:4px;font-size:12px;color:var(--acn-dark);text-align:center">判断资源匹配</div>
+                    </div>
+                  </div>
+                  <div style="background:var(--acn-white);padding:24px 16px">
+                    <div style="font-size:13px;font-weight:700;color:var(--acn-purple);margin-bottom:16px;text-align:center;padding-bottom:8px;border-bottom:1px solid rgba(161,0,255,0.15)">编排层</div>
+                    <div style="display:flex;flex-direction:column;gap:8px">
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.04);border-radius:4px;font-size:12px;color:var(--acn-dark);text-align:center">生成 Case</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.04);border-radius:4px;font-size:12px;color:var(--acn-dark);text-align:center">拆解任务</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.04);border-radius:4px;font-size:12px;color:var(--acn-dark);text-align:center">派发工单</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.04);border-radius:4px;font-size:12px;color:var(--acn-dark);text-align:center">跟踪风险闭环</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- AI与人的分工 -->
+              <div>
+                <div style="font-size:14px;font-weight:700;color:var(--acn-dark);margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid var(--acn-gray-light)">AI 与人的分工</div>
+                <div style="display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--acn-gray-light);margin-bottom:16px">
+                  <div style="background:var(--acn-black);padding:24px 20px">
+                    <div style="font-size:13px;font-weight:700;color:var(--acn-purple);margin-bottom:16px">AI 负责</div>
+                    <div style="display:flex;flex-direction:column;gap:8px">
+                      <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:rgba(255,255,255,0.8)"><span style="color:var(--acn-purple)">▸</span>感知</div>
+                      <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:rgba(255,255,255,0.8)"><span style="color:var(--acn-purple)">▸</span>预测</div>
+                      <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:rgba(255,255,255,0.8)"><span style="color:var(--acn-purple)">▸</span>推荐</div>
+                      <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:rgba(255,255,255,0.8)"><span style="color:var(--acn-purple)">▸</span>编排</div>
+                      <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:rgba(255,255,255,0.8)"><span style="color:var(--acn-purple)">▸</span>提醒</div>
+                    </div>
+                  </div>
+                  <div style="background:var(--acn-off-white);padding:24px 20px">
+                    <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:16px">人 负责</div>
+                    <div style="display:flex;flex-direction:column;gap:8px">
+                      <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:var(--acn-dark)"><span style="color:var(--acn-purple)">▸</span>授权</div>
+                      <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:var(--acn-dark)"><span style="color:var(--acn-purple)">▸</span>例外处理</div>
+                      <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:var(--acn-dark)"><span style="color:var(--acn-purple)">▸</span>高风险判断</div>
+                      <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:var(--acn-dark)"><span style="color:var(--acn-purple)">▸</span>关键节点确认</div>
+                      <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:var(--acn-dark)"><span style="color:var(--acn-purple)">▸</span>对外责任承担</div>
+                    </div>
+                  </div>
+                </div>
+                <div style="padding:16px 20px;background:rgba(161,0,255,0.06);border-left:3px solid var(--acn-purple);border-radius:0 4px 4px 0">
+                  <div style="font-size:12px;color:var(--acn-dark);line-height:1.7;margin-bottom:6px">
+                    <strong>原则：</strong>AI不是替代责任，而是增强责任
+                  </div>
+                  <div style="font-size:12px;color:var(--acn-gray);line-height:1.7">
+                    人从"追单子"转向"管例外、管风险、管责任"
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- AI对北燃各领域的改变 -->
+            <div style="margin-bottom:32px">
+              <div style="font-size:14px;font-weight:700;color:var(--acn-dark);margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid var(--acn-gray-light)">AI 对北燃未来模式的总体改变</div>
+              <div style="display:grid;grid-template-columns:repeat(7,1fr);gap:1px;background:var(--acn-gray-light)">
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:10px;line-height:1.4">对呼叫中心</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;margin-bottom:6px">热线中心</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">变成</div>
+                  <div style="font-size:11px;color:var(--acn-purple);font-weight:700">统一服务入口</div>
+                </div>
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:10px;line-height:1.4">对现场服务</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;margin-bottom:6px">人工派工</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">变成</div>
+                  <div style="font-size:11px;color:var(--acn-purple);font-weight:700">智能调度与增强型班组</div>
+                </div>
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:10px;line-height:1.4">对安全运营</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;margin-bottom:6px">规则检查</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">变成</div>
+                  <div style="font-size:11px;color:var(--acn-purple);font-weight:700">动态风险治理</div>
+                </div>
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:10px;line-height:1.4">对CRM与营销</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;margin-bottom:6px">留档系统</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">变成</div>
+                  <div style="font-size:11px;color:var(--acn-purple);font-weight:700">客户经营中枢</div>
+                </div>
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:10px;line-height:1.4">对计费与计量</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;margin-bottom:6px">后台支撑</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">变成</div>
+                  <div style="font-size:11px;color:var(--acn-purple);font-weight:700">持续经营与风险识别触点</div>
+                </div>
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:10px;line-height:1.4">对地图与主数据</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;margin-bottom:6px">静态底座</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">变成</div>
+                  <div style="font-size:11px;color:var(--acn-purple);font-weight:700">运营感知与决策界面</div>
+                </div>
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:10px;line-height:1.4">对管理层</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;margin-bottom:6px">静态报表管理</div>
+                  <div style="font-size:11px;color:var(--acn-gray-mid);margin-bottom:6px">变成</div>
+                  <div style="font-size:11px;color:var(--acn-purple);font-weight:700">实时经营与风险管理</div>
+                </div>
+              </div>
+            </div>
+
+            <!-- AI三层价值 -->
+            <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px">
+              <div style="padding:32px;background:var(--acn-black);border-radius:8px;position:relative;overflow:hidden">
+                <div style="position:absolute;top:-20px;right:-10px;font-family:'DM Mono',monospace;font-size:80px;font-weight:900;color:rgba(161,0,255,0.1);line-height:1">01</div>
+                <div style="font-size:12px;font-weight:700;color:var(--acn-purple);letter-spacing:0.1em;margin-bottom:12px">AI是"新生产力"</div>
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.6;display:flex;gap:8px"><span style="color:var(--acn-purple)">▸</span>把人的经验变成可复制能力</div>
+                  <div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.6;display:flex;gap:8px"><span style="color:var(--acn-purple)">▸</span>把分散判断变成统一判断</div>
+                  <div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.6;display:flex;gap:8px"><span style="color:var(--acn-purple)">▸</span>把被动处理变成主动运营</div>
+                </div>
+              </div>
+              <div style="padding:32px;background:var(--acn-black);border-radius:8px;position:relative;overflow:hidden">
+                <div style="position:absolute;top:-20px;right:-10px;font-family:'DM Mono',monospace;font-size:80px;font-weight:900;color:rgba(161,0,255,0.1);line-height:1">02</div>
+                <div style="font-size:12px;font-weight:700;color:var(--acn-purple);letter-spacing:0.1em;margin-bottom:12px">AI是"新协调机制"</div>
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.6;display:flex;gap:8px"><span style="color:var(--acn-purple)">▸</span>过去靠人追流程</div>
+                  <div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.6;display:flex;gap:8px"><span style="color:var(--acn-purple)">▸</span>未来靠AI编排任务</div>
+                  <div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.6;display:flex;gap:8px"><span style="color:var(--acn-purple)">▸</span>人只在关键节点负责确认和兜底</div>
+                </div>
+              </div>
+              <div style="padding:32px;background:var(--acn-black);border-radius:8px;position:relative;overflow:hidden">
+                <div style="position:absolute;top:-20px;right:-10px;font-family:'DM Mono',monospace;font-size:80px;font-weight:900;color:rgba(161,0,255,0.1);line-height:1">03</div>
+                <div style="font-size:12px;font-weight:700;color:var(--acn-purple);letter-spacing:0.1em;margin-bottom:12px">AI是"新经营杠杆"</div>
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.6;display:flex;gap:8px"><span style="color:var(--acn-purple)">▸</span>不只是提效</div>
+                  <div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.6;display:flex;gap:8px"><span style="color:var(--acn-purple)">▸</span>更是风险降低、收入增长</div>
+                  <div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.6;display:flex;gap:8px"><span style="color:var(--acn-purple)">▸</span>客户迁移、第二曲线承接</div>
+                </div>
+              </div>
+            </div>
+
+            <!-- AI原则 -->
+            <div style="margin-top:24px;padding:28px 32px;background:rgba(161,0,255,0.06);border:1px solid rgba(161,0,255,0.2);border-radius:8px">
+              <div style="font-size:13px;font-weight:700;color:var(--acn-purple);margin-bottom:16px;letter-spacing:0.05em">AI 的原则</div>
+              <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px">
+                <div style="display:flex;gap:12px;align-items:flex-start">
+                  <div style="width:20px;height:20px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:2px">
+                    <span style="font-size:10px;color:white;font-weight:700">1</span>
+                  </div>
+                  <div style="font-size:13px;color:var(--acn-dark);line-height:1.7">AI不是替代责任，而是<strong>增强责任</strong></div>
+                </div>
+                <div style="display:flex;gap:12px;align-items:flex-start">
+                  <div style="width:20px;height:20px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:2px">
+                    <span style="font-size:10px;color:white;font-weight:700">2</span>
+                  </div>
+                  <div style="font-size:13px;color:var(--acn-dark);line-height:1.7">AI不是替代人，而是替代<strong>低水平协调</strong></div>
+                </div>
+                <div style="display:flex;gap:12px;align-items:flex-start">
+                  <div style="width:20px;height:20px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:2px">
+                    <span style="font-size:10px;color:white;font-weight:700">3</span>
+                  </div>
+                  <div style="font-size:13px;color:var(--acn-dark);line-height:1.7">AI不是先上模型，而是先统一<strong>场景、数据、规则、Case</strong></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- ══════════════════════════════════════════════════════════
+               骨架 · 三层一支撑的组织形态
+          ══════════════════════════════════════════════════════════ -->
+          <div id="sys-gujia" style="margin-bottom:80px">
+            <div style="display:flex;align-items:center;gap:20px;margin-bottom:32px;padding-bottom:20px;border-bottom:2px solid var(--acn-gray-light)">
+              <div style="width:64px;height:64px;background:var(--acn-black);border-radius:12px;display:flex;align-items:center;justify-content:center;flex-shrink:0;box-shadow:0 8px 24px rgba(161,0,255,0.3)">
+                <span style="font-family:'Noto Serif SC',serif;font-size:20px;font-weight:900;color:var(--acn-purple)">骨架</span>
+              </div>
+              <div>
+                <div style="font-family:'DM Mono',monospace;font-size:11px;color:var(--acn-purple);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:4px">STRUCTURE · 03</div>
+                <div style="font-family:'Noto Serif SC',serif;font-size:28px;font-weight:700;color:var(--acn-black)">"三层一支撑"的组织形态</div>
+              </div>
+            </div>
+
+            <!-- 层级架构可视化 -->
+            <div style="position:relative;margin-bottom:32px">
+              <!-- 总部层 -->
+              <div style="background:var(--acn-black);padding:32px 40px;border-radius:8px 8px 0 0;margin-bottom:1px;position:relative;overflow:hidden">
+                <div style="position:absolute;right:40px;top:50%;transform:translateY(-50%);font-family:'DM Mono',monospace;font-size:60px;font-weight:900;color:rgba(161,0,255,0.12);line-height:1">L1</div>
+                <div style="display:flex;align-items:flex-start;gap:32px">
+                  <div style="flex-shrink:0">
+                    <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.2em;margin-bottom:6px">HEADQUARTERS</div>
+                    <div style="font-size:20px;font-weight:700;color:var(--acn-white)">总部层</div>
+                    <div style="font-size:13px;color:rgba(255,255,255,0.5);margin-top:4px">服务运营中枢</div>
+                  </div>
+                  <div style="flex:1">
+                    <div style="font-size:12px;color:rgba(255,255,255,0.6);margin-bottom:12px">北燃未来服务运营的"总控室"</div>
+                    <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px">
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.15);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.85);line-height:1.5">统一服务政策与规则</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.15);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.85);line-height:1.5">统一Case分类与场景编排</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.15);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.85);line-height:1.5">统一风险分级与升级机制</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.15);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.85);line-height:1.5">统一主数据口径</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.15);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.85);line-height:1.5">统一算法池与AI应用治理</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.15);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.85);line-height:1.5">统一经营分析与例外指挥</div>
+                      <div style="padding:8px 10px;background:rgba(161,0,255,0.15);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.85);line-height:1.5">统一政府报送与重点事件协同</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- 区域层 -->
+              <div style="background:var(--acn-gray-dark);padding:28px 40px;margin-bottom:1px;position:relative;overflow:hidden">
+                <div style="position:absolute;right:40px;top:50%;transform:translateY(-50%);font-family:'DM Mono',monospace;font-size:60px;font-weight:900;color:rgba(161,0,255,0.1);line-height:1">L2</div>
+                <div style="display:flex;align-items:flex-start;gap:32px">
+                  <div style="flex-shrink:0;min-width:120px">
+                    <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.2em;margin-bottom:6px">REGIONAL</div>
+                    <div style="font-size:20px;font-weight:700;color:var(--acn-white)">区域层</div>
+                    <div style="font-size:13px;color:rgba(255,255,255,0.5);margin-top:4px">区域运营控制塔</div>
+                  </div>
+                  <div style="flex:1">
+                    <div style="font-size:12px;color:rgba(255,255,255,0.6);margin-bottom:12px">负责日内调度、跨网格资源平衡、复杂事项升级和属地外部协调</div>
+                    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px">
+                      <div style="padding:8px 10px;background:rgba(255,255,255,0.08);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.8);line-height:1.5">跨班组、跨网格的负荷平衡</div>
+                      <div style="padding:8px 10px;background:rgba(255,255,255,0.08);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.8);line-height:1.5">重点事件升级响应</div>
+                      <div style="padding:8px 10px;background:rgba(255,255,255,0.08);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.8);line-height:1.5">重点客户属地服务统筹</div>
+                      <div style="padding:8px 10px;background:rgba(255,255,255,0.08);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.8);line-height:1.5">区域风险暴露监控</div>
+                      <div style="padding:8px 10px;background:rgba(255,255,255,0.08);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.8);line-height:1.5">属地政府/街道/社区协同</div>
+                      <div style="padding:8px 10px;background:rgba(255,255,255,0.08);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.8);line-height:1.5">区域绩效经营看板</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- 网格层 -->
+              <div style="background:#2a2a2a;padding:28px 40px;margin-bottom:1px;position:relative;overflow:hidden">
+                <div style="position:absolute;right:40px;top:50%;transform:translateY(-50%);font-family:'DM Mono',monospace;font-size:60px;font-weight:900;color:rgba(161,0,255,0.08);line-height:1">L3</div>
+                <div style="display:flex;align-items:flex-start;gap:32px">
+                  <div style="flex-shrink:0;min-width:120px">
+                    <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.2em;margin-bottom:6px">GRID FRONT</div>
+                    <div style="font-size:20px;font-weight:700;color:var(--acn-white)">网格层</div>
+                    <div style="font-size:13px;color:rgba(255,255,255,0.5);margin-top:4px">前线复合服务单元</div>
+                  </div>
+                  <div style="flex:1">
+                    <div style="font-size:12px;color:rgba(255,255,255,0.6);margin-bottom:12px">不能再仅按"安检班、维修班、工程班、抄表班"切割，而应形成场景化复合单元</div>
+                    <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px">
+                      <div style="padding:12px;background:rgba(161,0,255,0.12);border-radius:4px;text-align:center">
+                        <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:4px">居民综合</div>
+                        <div style="font-size:10px;color:rgba(255,255,255,0.6)">网格服务单元</div>
+                      </div>
+                      <div style="padding:12px;background:rgba(161,0,255,0.12);border-radius:4px;text-align:center">
+                        <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:4px">商业及重点客户</div>
+                        <div style="font-size:10px;color:rgba(255,255,255,0.6)">服务单元</div>
+                      </div>
+                      <div style="padding:12px;background:rgba(161,0,255,0.12);border-radius:4px;text-align:center">
+                        <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:4px">应急抢修</div>
+                        <div style="font-size:10px;color:rgba(255,255,255,0.6)">尖兵单元</div>
+                      </div>
+                      <div style="padding:12px;background:rgba(161,0,255,0.12);border-radius:4px;text-align:center">
+                        <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:4px">专家远程</div>
+                        <div style="font-size:10px;color:rgba(255,255,255,0.6)">支撑单元</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- 专业支撑层 -->
+              <div style="background:rgba(161,0,255,0.08);border:1px solid rgba(161,0,255,0.2);padding:28px 40px;border-radius:0 0 8px 8px">
+                <div style="display:flex;align-items:flex-start;gap:32px">
+                  <div style="flex-shrink:0;min-width:120px">
+                    <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.2em;margin-bottom:6px">SUPPORT</div>
+                    <div style="font-size:18px;font-weight:700;color:var(--acn-dark)">专业支撑层</div>
+                    <div style="font-size:12px;color:var(--acn-gray);margin-top:4px">数据·规则·知识·安全</div>
+                  </div>
+                  <div style="flex:1;display:grid;grid-template-columns:repeat(4,1fr);gap:16px">
+                    <div style="padding:16px;background:var(--acn-white);border-radius:6px;text-align:center;border-top:3px solid var(--acn-purple)">
+                      <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:6px">主数据治理团队</div>
+                      <div style="font-size:11px;color:var(--acn-gray-mid)">数据质量与标准</div>
+                    </div>
+                    <div style="padding:16px;background:var(--acn-white);border-radius:6px;text-align:center;border-top:3px solid var(--acn-purple)">
+                      <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:6px">服务规则与标准团队</div>
+                      <div style="font-size:11px;color:var(--acn-gray-mid)">流程与SLA管理</div>
+                    </div>
+                    <div style="padding:16px;background:var(--acn-white);border-radius:6px;text-align:center;border-top:3px solid var(--acn-purple)">
+                      <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:6px">AI与知识运营团队</div>
+                      <div style="font-size:11px;color:var(--acn-gray-mid)">模型与知识库</div>
+                    </div>
+                    <div style="padding:16px;background:var(--acn-white);border-radius:6px;text-align:center;border-top:3px solid var(--acn-purple)">
+                      <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:6px">安全策略与监督团队</div>
+                      <div style="font-size:11px;color:var(--acn-gray-mid)">风险与合规</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <!-- ══════════════════════════════════════════════════════════
+               经络 · 流程编排
+          ══════════════════════════════════════════════════════════ -->
+          <div id="sys-jingluo" style="margin-bottom:80px">
+            <div style="display:flex;align-items:center;gap:20px;margin-bottom:32px;padding-bottom:20px;border-bottom:2px solid var(--acn-gray-light)">
+              <div style="width:64px;height:64px;background:var(--acn-black);border-radius:12px;display:flex;align-items:center;justify-content:center;flex-shrink:0;box-shadow:0 8px 24px rgba(161,0,255,0.3)">
+                <span style="font-family:'Noto Serif SC',serif;font-size:28px;font-weight:900;color:var(--acn-purple)">经络</span>
+              </div>
+              <div>
+                <div style="font-family:'DM Mono',monospace;font-size:11px;color:var(--acn-purple);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:4px">MERIDIAN · 04</div>
+                <div style="font-family:'Noto Serif SC',serif;font-size:28px;font-weight:700;color:var(--acn-black)">从"工单流转"升级为"Case-Task-Work Order-Risk Closure"</div>
+              </div>
+            </div>
+
+            <!-- 四层流程架构 -->
+            <div style="margin-bottom:32px">
+              <div style="font-size:14px;font-weight:700;color:var(--acn-dark);margin-bottom:20px;padding-bottom:8px;border-bottom:1px solid var(--acn-gray-light)">四层业务对象体系</div>
+              
+              <!-- 流程图 -->
+              <div style="display:flex;align-items:stretch;gap:0;background:var(--acn-gray-light);padding:1px;border-radius:8px;overflow:hidden;margin-bottom:24px">
+                <!-- Case -->
+                <div style="flex:1;background:var(--acn-black);padding:32px 24px;position:relative">
+                  <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.15em;margin-bottom:8px">LAYER 01</div>
+                  <div style="font-size:20px;font-weight:700;color:var(--acn-white);margin-bottom:4px">实例 Case</div>
+                  <div style="font-size:11px;color:rgba(255,255,255,0.4);margin-bottom:16px">业务唯一载体</div>
+                  <div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.7;margin-bottom:12px">
+                    客户问题、项目事项或风险事件的唯一业务载体
+                  </div>
+                  <div style="font-size:11px;color:rgba(255,255,255,0.5);line-height:1.6">
+                    例如：报装申请、改管项目、异常停气、餐饮隐患、重点客户投诉、用户欠费异常、设备故障、安全告警
+                  </div>
+                  <div style="position:absolute;right:-12px;top:50%;transform:translateY(-50%);width:24px;height:24px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;z-index:2">
+                    <span style="color:white;font-size:12px;font-weight:700">→</span>
+                  </div>
+                </div>
+
+                <!-- Task -->
+                <div style="flex:1;background:#111;padding:32px 24px;position:relative">
+                  <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.15em;margin-bottom:8px">LAYER 02</div>
+                  <div style="font-size:20px;font-weight:700;color:var(--acn-white);margin-bottom:4px">任务 Task</div>
+                  <div style="font-size:11px;color:rgba(255,255,255,0.4);margin-bottom:16px">Case下的任务拆解</div>
+                  <div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.7;margin-bottom:12px">
+                    Case之下的任务拆解
+                  </div>
+                  <div style="font-size:11px;color:rgba(255,255,255,0.5);line-height:1.6">
+                    可分配给客服、审批人员、设计人员、调度员、班组长、现场人员、AI智能体或外部单位
+                  </div>
+                  <div style="position:absolute;right:-12px;top:50%;transform:translateY(-50%);width:24px;height:24px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;z-index:2">
+                    <span style="color:white;font-size:12px;font-weight:700">→</span>
+                  </div>
+                </div>
+
+                <!-- Work Order -->
+                <div style="flex:1;background:#1a1a1a;padding:32px 24px;position:relative">
+                  <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.15em;margin-bottom:8px">LAYER 03</div>
+                  <div style="font-size:20px;font-weight:700;color:var(--acn-white);margin-bottom:4px">工单 Work Order</div>
+                  <div style="font-size:11px;color:rgba(255,255,255,0.4);margin-bottom:16px">现场执行最小单元</div>
+                  <div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.7;margin-bottom:12px">
+                    需要现场执行的任务单
+                  </div>
+                  <div style="font-size:11px;color:rgba(255,255,255,0.5);line-height:1.6">
+                    它是现场作业的最小闭环单位，关注谁去、何时去、带什么去、按什么标准做、如何留痕
+                  </div>
+                  <div style="position:absolute;right:-12px;top:50%;transform:translateY(-50%);width:24px;height:24px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;z-index:2">
+                    <span style="color:white;font-size:12px;font-weight:700">→</span>
+                  </div>
+                </div>
+
+                <!-- Risk Closure -->
+                <div style="flex:1;background:rgba(161,0,255,0.15);padding:32px 24px;border-left:3px solid var(--acn-purple)">
+                  <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.15em;margin-bottom:8px">LAYER 04</div>
+                  <div style="font-size:20px;font-weight:700;color:var(--acn-white);margin-bottom:4px">风险闭环 Risk Closure</div>
+                  <div style="font-size:11px;color:rgba(255,255,255,0.6);margin-bottom:16px">安全合规最终保障</div>
+                  <div style="font-size:12px;color:rgba(255,255,255,0.8);line-height:1.7;margin-bottom:12px">
+                    对于涉及安全、舆情、合规、重点客户、政府协同的事项，必须有独立的风险闭环对象
+                  </div>
+                  <div style="padding:10px 12px;background:rgba(161,0,255,0.2);border-radius:4px;font-size:11px;color:rgba(255,255,255,0.9);line-height:1.6;font-weight:600">
+                    不能"完工即闭环"，而要"风险解除才闭环"
+                  </div>
+                </div>
+              </div>
+
+              <!-- 核心洞察 -->
+              <div style="padding:24px 32px;background:var(--acn-off-white);border-left:4px solid var(--acn-purple);border-radius:0 8px 8px 0">
+                <div style="font-size:13px;color:var(--acn-gray);line-height:1.8">
+                  服务组织，真正领先者已经不再把服务理解为"单次受理"，而是把<strong style="color:var(--acn-dark)">人机协同、任务编排、实时调度、知识调用和现场闭环</strong>放入同一体系中
+                </div>
+              </div>
+            </div>
+
+            <!-- ══════════════════════════════════════════════════════════
+                 各业务场景的流程逻辑重新定义
+            ══════════════════════════════════════════════════════════ -->
+            <div style="margin-top:64px">
+              <div style="font-size:14px;font-weight:700;color:var(--acn-dark);margin-bottom:24px;padding-bottom:8px;border-bottom:1px solid var(--acn-gray-light)">各业务场景的流程逻辑重新定义</div>
+              
+              <!-- 呼叫场景 -->
+              <div style="margin-bottom:32px">
+                <div style="display:flex;align-items:center;gap:16px;margin-bottom:20px">
+                  <div style="width:40px;height:40px;background:var(--acn-purple);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+                    <span style="font-size:16px;color:white;font-weight:700">📞</span>
+                  </div>
+                  <div style="font-size:18px;font-weight:700;color:var(--acn-black)">呼叫</div>
+                </div>
+                
+                <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:20px">
+                  <div style="padding:24px;background:var(--acn-off-white);border-radius:8px">
+                    <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:8px">从</div>
+                    <div style="font-size:15px;font-weight:700;color:var(--acn-dark)">"接听—建单—转派"</div>
+                  </div>
+                  <div style="padding:24px;background:rgba(161,0,255,0.08);border-radius:8px;border-left:3px solid var(--acn-purple)">
+                    <div style="font-size:12px;color:var(--acn-purple);margin-bottom:8px">变成</div>
+                    <div style="font-size:15px;font-weight:700;color:var(--acn-purple)">"识别—分级—编排—协同—追踪—主动触达"</div>
+                  </div>
+                </div>
+
+                <div style="padding:24px;background:var(--acn-white);border:1px solid var(--acn-gray-light);border-radius:8px;margin-bottom:16px">
+                  <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:16px">重点能力</div>
+                  <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:12px">
+                    <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                      <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>全渠道统一接入
+                    </div>
+                    <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                      <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>语音/文本/多模态统一上下文
+                    </div>
+                    <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                      <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>自动摘要与智能分级
+                    </div>
+                    <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                      <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>高风险来电自动升级
+                    </div>
+                    <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                      <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>复杂 Case 转人工经理
+                    </div>
+                    <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                      <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>闭环过程可视化
+                    </div>
+                  </div>
+                </div>
+
+                <div style="padding:24px;background:rgba(161,0,255,0.04);border-radius:8px">
+                  <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:16px">不只是"停气打电话"，而是</div>
+                  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:12px">
+                    <div style="padding:12px;background:var(--acn-white);border-radius:6px;font-size:12px;color:var(--acn-dark);text-align:center">设备到期会提醒</div>
+                    <div style="padding:12px;background:var(--acn-white);border-radius:6px;font-size:12px;color:var(--acn-dark);text-align:center">安全隐患会预警</div>
+                    <div style="padding:12px;background:var(--acn-white);border-radius:6px;font-size:12px;color:var(--acn-dark);text-align:center">采暖方案会建议</div>
+                    <div style="padding:12px;background:var(--acn-white);border-radius:6px;font-size:12px;color:var(--acn-dark);text-align:center">新能源设备会解释</div>
+                    <div style="padding:12px;background:var(--acn-white);border-radius:6px;font-size:12px;color:var(--acn-dark);text-align:center">改造升级会规划</div>
+                  </div>
+                </div>
+
+                <div style="margin-top:16px;padding:20px;background:var(--acn-black);border-radius:8px">
+                  <div style="font-size:12px;color:rgba(255,255,255,0.6);margin-bottom:12px">未来呼叫中心至少要有四种角色</div>
+                  <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:12px">
+                    <div style="padding:12px;background:rgba(255,255,255,0.1);border-radius:6px">
+                      <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:4px">事务处理</div>
+                      <div style="font-size:10px;color:rgba(255,255,255,0.7)">缴费、报修、报装、查询</div>
+                    </div>
+                    <div style="padding:12px;background:rgba(255,255,255,0.1);border-radius:6px">
+                      <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:4px">安全守门</div>
+                      <div style="font-size:10px;color:rgba(255,255,255,0.7)">异常识别、风险升级、特殊用户关怀</div>
+                    </div>
+                    <div style="padding:12px;background:rgba(255,255,255,0.1);border-radius:6px">
+                      <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:4px">关系经营</div>
+                      <div style="font-size:10px;color:rgba(255,255,255,0.7)">续约提醒、设备到期提醒、服务推荐</div>
+                    </div>
+                    <div style="padding:12px;background:rgba(255,255,255,0.1);border-radius:6px">
+                      <div style="font-size:11px;font-weight:700;color:var(--acn-purple);margin-bottom:4px">场景迁移</div>
+                      <div style="font-size:10px;color:rgba(255,255,255,0.7)">当用户咨询热泵、采暖改造、综合能源方案时，北燃有能力承接而不是把客户放走</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- 报装/改管等多阶段业务 -->
+              <div style="margin-bottom:32px">
+                <div style="display:flex;align-items:center;gap:16px;margin-bottom:20px">
+                  <div style="width:40px;height:40px;background:var(--acn-purple);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+                    <span style="font-size:16px;color:white;font-weight:700">📋</span>
+                  </div>
+                  <div style="font-size:18px;font-weight:700;color:var(--acn-black)">报装/改管等多阶段业务</div>
+                </div>
+                
+                <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:20px">
+                  <div style="padding:24px;background:var(--acn-off-white);border-radius:8px">
+                    <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:8px">从</div>
+                    <div style="font-size:15px;font-weight:700;color:var(--acn-dark)">"分段审批流程"</div>
+                  </div>
+                  <div style="padding:24px;background:rgba(161,0,255,0.08);border-radius:8px;border-left:3px solid var(--acn-purple)">
+                    <div style="font-size:12px;color:var(--acn-purple);margin-bottom:8px">变成</div>
+                    <div style="font-size:15px;font-weight:700;color:var(--acn-purple)">"项目型 Case 管理"</div>
+                  </div>
+                </div>
+
+                <div style="padding:24px;background:var(--acn-white);border:1px solid var(--acn-gray-light);border-radius:8px">
+                  <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:16px">典型链条</div>
+                  <div style="font-size:12px;color:var(--acn-gray);line-height:2">
+                    诉求受理 → 现场踏勘 → 设计报价 → 合同收款 → 工程建设 → 供气点维护 → 挂表开户 → 通气验收 → 回访评价
+                  </div>
+                </div>
+              </div>
+
+              <!-- 维修/安检/抢修 -->
+              <div style="margin-bottom:32px">
+                <div style="display:flex;align-items:center;gap:16px;margin-bottom:20px">
+                  <div style="width:40px;height:40px;background:var(--acn-purple);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+                    <span style="font-size:16px;color:white;font-weight:700">🔧</span>
+                  </div>
+                  <div style="font-size:18px;font-weight:700;color:var(--acn-black)">维修/安检/抢修</div>
+                </div>
+                
+                <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:20px">
+                  <div style="padding:24px;background:var(--acn-off-white);border-radius:8px">
+                    <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:8px">从</div>
+                    <div style="font-size:15px;font-weight:700;color:var(--acn-dark)">"接诉即派工"</div>
+                  </div>
+                  <div style="padding:24px;background:rgba(161,0,255,0.08);border-radius:8px;border-left:3px solid var(--acn-purple)">
+                    <div style="font-size:12px;color:var(--acn-purple);margin-bottom:8px">变成</div>
+                    <div style="font-size:15px;font-weight:700;color:var(--acn-purple)">"风险驱动的服务调度"</div>
+                  </div>
+                </div>
+
+                <div style="padding:24px;background:var(--acn-white);border:1px solid var(--acn-gray-light);border-radius:8px;margin-bottom:16px">
+                  <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:16px">典型链条</div>
+                  <div style="font-size:12px;color:var(--acn-gray);line-height:2">
+                    诉求识别 → 风险判断 → AI 推荐等级 → 调度派工 → 现场处置 → 视频/图像留痕 → 安全复核 → 用户确认 → 风险关闭
+                  </div>
+                </div>
+
+                <div style="padding:24px;background:rgba(161,0,255,0.04);border-radius:8px">
+                  <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:16px">从"修一次"变成"经营一次"</div>
+                  <div style="padding:16px;background:var(--acn-white);border-radius:6px">
+                    <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:12px">一次上门至少要同时完成四件事</div>
+                    <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:12px">
+                      <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-dark);line-height:1.5">
+                        <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>解决当前问题
+                      </div>
+                      <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-dark);line-height:1.5">
+                        <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>识别安全风险
+                      </div>
+                      <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-dark);line-height:1.5">
+                        <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>判断设备生命周期状态
+                      </div>
+                      <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-dark);line-height:1.5">
+                        <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>发现潜在服务或升级机会
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- CRM/营销/延伸服务 -->
+              <div style="margin-bottom:32px">
+                <div style="display:flex;align-items:center;gap:16px;margin-bottom:20px">
+                  <div style="width:40px;height:40px;background:var(--acn-purple);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+                    <span style="font-size:16px;color:white;font-weight:700">💼</span>
+                  </div>
+                  <div style="font-size:18px;font-weight:700;color:var(--acn-black)">CRM/营销/延伸服务</div>
+                </div>
+                
+                <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:20px">
+                  <div style="padding:24px;background:var(--acn-off-white);border-radius:8px">
+                    <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:8px">从</div>
+                    <div style="font-size:15px;font-weight:700;color:var(--acn-dark)">"事务结束后归档"</div>
+                  </div>
+                  <div style="padding:24px;background:rgba(161,0,255,0.08);border-radius:8px;border-left:3px solid var(--acn-purple)">
+                    <div style="font-size:12px;color:var(--acn-purple);margin-bottom:8px">变成</div>
+                    <div style="font-size:15px;font-weight:700;color:var(--acn-purple)">"服务过程即经营过程"</div>
+                  </div>
+                </div>
+
+                <div style="padding:24px;background:var(--acn-white);border:1px solid var(--acn-gray-light);border-radius:8px">
+                  <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:16px">典型链条</div>
+                  <div style="font-size:12px;color:var(--acn-gray);line-height:2">
+                    客户分层 → 商机触发 → 线索分配 → 服务跟进 → 合同/服务协议 → 到期提醒 → 续约/交叉销售 → 客户成功管理
+                  </div>
+                </div>
+              </div>
+
+              <!-- 计量/计费/缴费 -->
+              <div style="margin-bottom:32px">
+                <div style="display:flex;align-items:center;gap:16px;margin-bottom:20px">
+                  <div style="width:40px;height:40px;background:var(--acn-purple);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+                    <span style="font-size:16px;color:white;font-weight:700">💰</span>
+                  </div>
+                  <div style="font-size:18px;font-weight:700;color:var(--acn-black)">计量/计费/缴费</div>
+                </div>
+                
+                <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:20px">
+                  <div style="padding:24px;background:var(--acn-off-white);border-radius:8px">
+                    <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:8px">从</div>
+                    <div style="font-size:15px;font-weight:700;color:var(--acn-dark)">"后台计费支撑"</div>
+                  </div>
+                  <div style="padding:24px;background:rgba(161,0,255,0.08);border-radius:8px;border-left:3px solid var(--acn-purple)">
+                    <div style="font-size:12px;color:var(--acn-purple);margin-bottom:8px">变成</div>
+                    <div style="font-size:15px;font-weight:700;color:var(--acn-purple)">"客户经营与风险识别触点"</div>
+                  </div>
+                </div>
+
+                <div style="padding:24px;background:var(--acn-white);border:1px solid var(--acn-gray-light);border-radius:8px">
+                  <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:16px">典型链条</div>
+                  <div style="font-size:12px;color:var(--acn-gray);line-height:2">
+                    抄收计费 → 异常识别 → 触达提醒 → 自助缴费/人工协同 → 欠费处置 → 风险用户标记 → 后续服务策略联动
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- ══════════════════════════════════════════════════════════
+               筋膜 · 标准体系
+          ══════════════════════════════════════════════════════════ -->
+          <div id="sys-jinmo" style="margin-bottom:80px">
+            <div style="display:flex;align-items:center;gap:20px;margin-bottom:32px;padding-bottom:20px;border-bottom:2px solid var(--acn-gray-light)">
+              <div style="width:64px;height:64px;background:var(--acn-black);border-radius:12px;display:flex;align-items:center;justify-content:center;flex-shrink:0;box-shadow:0 8px 24px rgba(161,0,255,0.3)">
+                <span style="font-family:'Noto Serif SC',serif;font-size:20px;font-weight:900;color:var(--acn-purple)">筋膜</span>
+              </div>
+              <div>
+                <div style="font-family:'DM Mono',monospace;font-size:11px;color:var(--acn-purple);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:4px">FASCIA · 05</div>
+                <div style="font-family:'Noto Serif SC',serif;font-size:28px;font-weight:700;color:var(--acn-black)">标准体系怎么建</div>
+              </div>
+            </div>
+
+            <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--acn-gray-light)">
+              <!-- 服务标准 -->
+              <div style="background:var(--acn-white);padding:28px 20px;border-top:4px solid var(--acn-purple)">
+                <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.15em;margin-bottom:8px">STD 01</div>
+                <div style="font-size:16px;font-weight:700;color:var(--acn-black);margin-bottom:16px">服务标准</div>
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>服务目录标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>受理口径标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>时限与SLA标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>用户触达标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>复杂事项升级标准
+                  </div>
+                </div>
+              </div>
+
+              <!-- 作业标准 -->
+              <div style="background:var(--acn-white);padding:28px 20px;border-top:4px solid var(--acn-purple)">
+                <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.15em;margin-bottom:8px">STD 02</div>
+                <div style="font-size:16px;font-weight:700;color:var(--acn-black);margin-bottom:16px">作业标准</div>
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>入户标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>安检标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>维修标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>抢修标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>改管施工标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>现场留痕与签字标准
+                  </div>
+                </div>
+              </div>
+
+              <!-- 风险标准 -->
+              <div style="background:var(--acn-white);padding:28px 20px;border-top:4px solid var(--acn-purple)">
+                <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.15em;margin-bottom:8px">STD 03</div>
+                <div style="font-size:16px;font-weight:700;color:var(--acn-black);margin-bottom:16px">风险标准</div>
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>风险分级标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>隐患标签标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>高风险客户识别标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>敏感事件上报标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>政府协同标准
+                  </div>
+                </div>
+              </div>
+
+              <!-- 数据标准 -->
+              <div style="background:var(--acn-white);padding:28px 20px;border-top:4px solid var(--acn-purple)">
+                <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.15em;margin-bottom:8px">STD 04</div>
+                <div style="font-size:16px;font-weight:700;color:var(--acn-black);margin-bottom:16px">数据标准</div>
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>用户主数据
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>地址主数据
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>设备主数据
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>Case/Task/Work Order对象标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>标签与画像标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>主数据治理职责与更新机制
+                  </div>
+                </div>
+              </div>
+
+              <!-- 经营标准 -->
+              <div style="background:var(--acn-white);padding:28px 20px;border-top:4px solid var(--acn-purple)">
+                <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.15em;margin-bottom:8px">STD 05</div>
+                <div style="font-size:16px;font-weight:700;color:var(--acn-black);margin-bottom:16px">经营标准</div>
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>客群分层标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>商机认定标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>合同/SLA标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>续约与增值服务触发标准
+                  </div>
+                  <div style="display:flex;align-items:flex-start;gap:8px;font-size:12px;color:var(--acn-gray);line-height:1.5">
+                    <span style="color:var(--acn-purple);flex-shrink:0;margin-top:1px">▸</span>重点客户管理标准
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- ══════════════════════════════════════════════════════════
+               眼睛 · 地图运营
+          ══════════════════════════════════════════════════════════ -->
+          <div id="sys-yanjing" style="margin-bottom:80px">
+            <div style="display:flex;align-items:center;gap:20px;margin-bottom:32px;padding-bottom:20px;border-bottom:2px solid var(--acn-gray-light)">
+              <div style="width:64px;height:64px;background:var(--acn-black);border-radius:12px;display:flex;align-items:center;justify-content:center;flex-shrink:0;box-shadow:0 8px 24px rgba(161,0,255,0.3)">
+                <span style="font-family:'Noto Serif SC',serif;font-size:20px;font-weight:900;color:var(--acn-purple)">眼睛</span>
+              </div>
+              <div>
+                <div style="font-family:'DM Mono',monospace;font-size:11px;color:var(--acn-purple);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:4px">VISION · 06</div>
+                <div style="font-family:'Noto Serif SC',serif;font-size:28px;font-weight:700;color:var(--acn-black)">地图模式必须扩展，而且必须成为管理工具</div>
+              </div>
+            </div>
+
+            <!-- 核心定位 -->
+            <div style="background:var(--acn-black);padding:40px;border-radius:8px;margin-bottom:32px;position:relative;overflow:hidden">
+              <div style="position:absolute;right:-40px;top:-40px;width:300px;height:300px;background:radial-gradient(circle,rgba(161,0,255,0.2) 0%,transparent 70%);pointer-events:none"></div>
+              <div style="font-size:20px;font-weight:700;color:var(--acn-white);margin-bottom:12px;line-height:1.4">
+                地图不是展示层，而是北燃未来服务运营的<span style="color:var(--acn-purple)">感知器、预警器和调优器</span>
+              </div>
+              <div style="font-size:14px;color:rgba(255,255,255,0.6);line-height:1.8">
+                运营洞察与反馈闭环
+              </div>
+            </div>
+
+            <!-- ══════════════════════════════════════════════════════════
+                 六类地图 · 管理矩阵
+            ══════════════════════════════════════════════════════════ -->
+            <div style="margin-bottom:48px">
+              <div style="font-size:13px;font-weight:700;color:var(--acn-dark);margin-bottom:20px;padding-bottom:8px;border-bottom:1px solid var(--acn-gray-light)">六类地图 · 管理矩阵</div>
+              
+              <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:16px">
+                <!-- 风险地图 -->
+                <div style="background:var(--acn-black);padding:20px;border-radius:8px;position:relative;overflow:hidden">
+                  <div style="position:absolute;top:-20px;right:-20px;width:80px;height:80px;background:radial-gradient(circle,rgba(161,0,255,0.3) 0%,transparent 70%);pointer-events:none"></div>
+                  <div style="font-size:12px;font-weight:700;color:var(--acn-purple);margin-bottom:12px">风险地图</div>
+                  <div style="font-size:10px;color:rgba(255,255,255,0.5);margin-bottom:10px">聚合</div>
+                  <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">老旧管网</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">高风险区域</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">餐饮聚集区</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">敏感场所</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">第三方施工占压</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">历史事故点</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">高风险用户分布</span>
+                  </div>
+                  <div style="width:100%;height:1px;background:rgba(255,255,255,0.1);margin:10px 0"></div>
+                  <div style="font-size:10px;color:rgba(255,255,255,0.5);margin-bottom:8px">作用</div>
+                  <div style="display:flex;flex-direction:column;gap:4px">
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>动态风险预警</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>重点巡检计划</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>安检资源优先级配置</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>应急布防</div>
+                  </div>
+                </div>
+
+                <!-- 商机地图 -->
+                <div style="background:var(--acn-black);padding:20px;border-radius:8px;position:relative;overflow:hidden">
+                  <div style="position:absolute;top:-20px;right:-20px;width:80px;height:80px;background:radial-gradient(circle,rgba(161,0,255,0.3) 0%,transparent 70%);pointer-events:none"></div>
+                  <div style="font-size:12px;font-weight:700;color:var(--acn-purple);margin-bottom:12px">商机地图</div>
+                  <div style="font-size:10px;color:rgba(255,255,255,0.5);margin-bottom:10px">聚合</div>
+                  <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">燃煤替代区</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">城市更新片区</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">商圈餐饮园区医院学校</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">综合能源潜力客户</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">高价值工商客群</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">设备更新与延伸服务机会点</span>
+                  </div>
+                  <div style="width:100%;height:1px;background:rgba(255,255,255,0.1);margin:10px 0"></div>
+                  <div style="font-size:10px;color:rgba(255,255,255,0.5);margin-bottom:8px">作用</div>
+                  <div style="display:flex;flex-direction:column;gap:4px">
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>商机发现</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>客户地理布点</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>场景营销</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>综合能源服务触发</div>
+                  </div>
+                </div>
+
+                <!-- 设备地图 -->
+                <div style="background:var(--acn-black);padding:20px;border-radius:8px;position:relative;overflow:hidden">
+                  <div style="position:absolute;top:-20px;right:-20px;width:80px;height:80px;background:radial-gradient(circle,rgba(161,0,255,0.3) 0%,transparent 70%);pointer-events:none"></div>
+                  <div style="font-size:12px;font-weight:700;color:var(--acn-purple);margin-bottom:12px">设备地图</div>
+                  <div style="font-size:10px;color:rgba(255,255,255,0.5);margin-bottom:10px">聚合</div>
+                  <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">表具阀门报警器</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">设备健康状态</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">检修记录</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">故障记录</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">生命周期</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">改造状态</span>
+                  </div>
+                  <div style="width:100%;height:1px;background:rgba(255,255,255,0.1);margin:10px 0"></div>
+                  <div style="font-size:10px;color:rgba(255,255,255,0.5);margin-bottom:8px">作用</div>
+                  <div style="display:flex;flex-direction:column;gap:4px">
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>预测性维护</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>备件配置</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>设备更新建议</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>健康度分析</div>
+                  </div>
+                </div>
+
+                <!-- 人员地图 -->
+                <div style="background:var(--acn-black);padding:20px;border-radius:8px;position:relative;overflow:hidden">
+                  <div style="position:absolute;top:-20px;right:-20px;width:80px;height:80px;background:radial-gradient(circle,rgba(161,0,255,0.3) 0%,transparent 70%);pointer-events:none"></div>
+                  <div style="font-size:12px;font-weight:700;color:var(--acn-purple);margin-bottom:12px">人员地图</div>
+                  <div style="font-size:10px;color:rgba(255,255,255,0.5);margin-bottom:10px">聚合</div>
+                  <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">技能标签</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px>资质等级</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">负荷状态</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">当前任务</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">历史绩效</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">安全行为评分</span>
+                  </div>
+                  <div style="width:100%;height:1px;background:rgba(255,255,255,0.1);margin:10px 0"></div>
+                  <div style="font-size:10px;color:rgba(255,255,255,0.5);margin-bottom:8px">作用</div>
+                  <div style="display:flex;flex-direction:column;gap:4px">
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>智能派工</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>弹性排班</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>高峰支援</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>技能匹配</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>区域均衡</div>
+                  </div>
+                </div>
+
+                <!-- 服务运行地图 -->
+                <div style="background:var(--acn-black);padding:20px;border-radius:8px;position:relative;overflow:hidden">
+                  <div style="position:absolute;top:-20px;right:-20px;width:80px;height:80px;background:radial-gradient(circle,rgba(161,0,255,0.3) 0%,transparent 70%);pointer-events:none"></div>
+                  <div style="font-size:12px;font-weight:700;color:var(--acn-purple);margin-bottom:12px">服务运行地图</div>
+                  <div style="font-size:10px;color:rgba(255,255,255,0.5);margin-bottom:10px">聚合</div>
+                  <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">工单热力</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">响应时效</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">未闭环 Case</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">重复上门点</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">重点客户 SLA 状态</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">抢修资源调度状态</span>
+                  </div>
+                  <div style="width:100%;height:1px;background:rgba(255,255,255,0.1);margin:10px 0"></div>
+                  <div style="font-size:10px;color:rgba(255,255,255,0.5);margin-bottom:8px">作用</div>
+                  <div style="display:flex;flex-direction:column;gap:4px">
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>日/周/月维度</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>区域控制图运营</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>例外事件/升级</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>绩效复盘</div>
+                  </div>
+                </div>
+                <!-- 政企协同地图 -->                
+                 <div style="background:var(--acn-black);padding:20px;border-radius:8px;position:relative;overflow:hidden">
+                  <div style="position:absolute;top:-20px;right:-20px;width:80px;height:80px;background:radial-gradient(circle,rgba(161,0,255,0.3) 0%,transparent 70%);pointer-events:none"></div>
+                  <div style="font-size:12px;font-weight:700;color:var(--acn-purple);margin-bottom:12px">政企协同地图</div>
+                  <div style="font-size:10px;color:rgba(255,255,255,0.5);margin-bottom:10px">聚合</div>
+                  <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">重点保障对象</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">敏感区域</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">重大活动保障点</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">城市更新项目</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">停复气影响范围</span>
+                    <span style="font-size:9px;color:rgba(255,255,255,0.7);padding:4px 8px;background:rgba(161,0,255,0.2);border-radius:3px">监管关注事项</span>
+                  </div>
+                  <div style="width:100%;height:1px;background:rgba(255,255,255,0.1);margin:10px 0"></div>
+                  <div style="font-size:10px;color:rgba(255,255,255,0.5);margin-bottom:8px">作用</div>
+                  <div style="display:flex;flex-direction:column;gap:4px">
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>对上报送</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>对外协同</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>舆情应对</div>
+                    <div style="font-size:9px;color:rgba(255,255,255,0.7);display:flex;align-items:center;gap:4px"><span style="color:var(--acn-purple)">▸</span>重点保障</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- 三大本质转变 -->
+            <div style="margin-bottom:32px">
+              <div style="font-size:14px;font-weight:700;color:var(--acn-dark);margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid var(--acn-gray-light)">三大本质转变</div>
+              <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--acn-gray-light)">
+                <div style="background:var(--acn-white);padding:32px 24px">
+                  <div style="display:flex;align-items:center;gap:12px;margin-bottom:20px">
+                    <div style="width:36px;height:36px;background:rgba(161,0,255,0.1);border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+                      <span style="font-size:16px">→</span>
+                    </div>
+                    <div style="font-size:13px;font-weight:700;color:var(--acn-purple)">本质转变 01</div>
+                  </div>
+                  <div style="padding:16px;background:var(--acn-off-white);border-radius:6px;margin-bottom:12px">
+                    <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:4px">从</div>
+                    <div style="font-size:14px;font-weight:600;color:var(--acn-dark)">"事后报表分析"</div>
+                  </div>
+                  <div style="padding:16px;background:rgba(161,0,255,0.06);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                    <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:4px">走向</div>
+                    <div style="font-size:14px;font-weight:700;color:var(--acn-purple)">"事中运行监控+即时反馈调整"</div>
+                  </div>
+                </div>
+                <div style="background:var(--acn-white);padding:32px 24px">
+                  <div style="display:flex;align-items:center;gap:12px;margin-bottom:20px">
+                    <div style="width:36px;height:36px;background:rgba(161,0,255,0.1);border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+                      <span style="font-size:16px">→</span>
+                    </div>
+                    <div style="font-size:13px;font-weight:700;color:var(--acn-purple)">本质转变 02</div>
+                  </div>
+                  <div style="padding:16px;background:var(--acn-off-white);border-radius:6px;margin-bottom:12px">
+                    <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:4px">从</div>
+                    <div style="font-size:14px;font-weight:600;color:var(--acn-dark)">"看到问题"</div>
+                  </div>
+                  <div style="padding:16px;background:rgba(161,0,255,0.06);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                    <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:4px">走向</div>
+                    <div style="font-size:14px;font-weight:700;color:var(--acn-purple)">"立刻知道该调什么、谁来调、调完效果如何"</div>
+                  </div>
+                </div>
+                <div style="background:var(--acn-white);padding:32px 24px">
+                  <div style="display:flex;align-items:center;gap:12px;margin-bottom:20px">
+                    <div style="width:36px;height:36px;background:rgba(161,0,255,0.1);border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+                      <span style="font-size:16px">→</span>
+                    </div>
+                    <div style="font-size:13px;font-weight:700;color:var(--acn-purple)">本质转变 03</div>
+                  </div>
+                  <div style="padding:16px;background:var(--acn-off-white);border-radius:6px;margin-bottom:12px">
+                    <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:4px">从</div>
+                    <div style="font-size:14px;font-weight:600;color:var(--acn-dark)">"静态可视化"</div>
+                  </div>
+                  <div style="padding:16px;background:rgba(161,0,255,0.06);border-radius:6px;border-left:3px solid var(--acn-purple)">
+                    <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:4px">走向</div>
+                    <div style="font-size:14px;font-weight:700;color:var(--acn-purple)">"动态运营驾驶"</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- 七大作用 -->
+            <div>
+              <div style="font-size:14px;font-weight:700;color:var(--acn-dark);margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid var(--acn-gray-light)">地图运营的七大作用</div>
+              <div style="display:grid;grid-template-columns:repeat(7,1fr);gap:1px;background:var(--acn-gray-light)">
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="width:32px;height:32px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 12px;font-family:'DM Mono',monospace;font-size:12px;font-weight:700;color:white">01</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;line-height:1.5">适时分析运营表现</div>
+                </div>
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="width:32px;height:32px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 12px;font-family:'DM Mono',monospace;font-size:12px;font-weight:700;color:white">02</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;line-height:1.5">及时发现异常与偏差</div>
+                </div>
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="width:32px;height:32px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 12px;font-family:'DM Mono',monospace;font-size:12px;font-weight:700;color:white">03</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;line-height:1.5">快速定位问题根因</div>
+                </div>
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="width:32px;height:32px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 12px;font-family:'DM Mono',monospace;font-size:12px;font-weight:700;color:white">04</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;line-height:1.5">动态优化资源配置</div>
+                </div>
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="width:32px;height:32px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 12px;font-family:'DM Mono',monospace;font-size:12px;font-weight:700;color:white">05</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;line-height:1.5">实时调整服务策略</div>
+                </div>
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="width:32px;height:32px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 12px;font-family:'DM Mono',monospace;font-size:12px;font-weight:700;color:white">06</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;line-height:1.5">支撑日/周/月经营复盘</div>
+                </div>
+                <div style="background:var(--acn-white);padding:20px 14px;text-align:center">
+                  <div style="width:32px;height:32px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 12px;font-family:'DM Mono',monospace;font-size:12px;font-weight:700;color:white">07</div>
+                  <div style="font-size:11px;color:var(--acn-dark);font-weight:600;line-height:1.5">形成持续优化闭环</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- ══════════════════════════════════════════════════════════
+               六位一体 · 总结
+          ══════════════════════════════════════════════════════════ -->
+          <div style="background:var(--acn-black);padding:64px 200px;border-radius:12px;text-align:center;position:relative;overflow:hidden;margin-bottom:24px;margin-left:-24px;margin-right:-24px;width:calc(100% + 48px)">
+            <div style="position:absolute;inset:0;background:repeating-linear-gradient(90deg,rgba(161,0,255,0.03) 0,rgba(161,0,255,0.03) 1px,transparent 1px,transparent 80px);pointer-events:none"></div>
+            <div style="position:absolute;top:-100px;left:50%;transform:translateX(-50%);width:600px;height:400px;background:radial-gradient(circle,rgba(161,0,255,0.15) 0%,transparent 70%);pointer-events:none"></div>
+            <div style="position:relative;z-index:1">
+              <div style="font-family:'DM Mono',monospace;font-size:11px;color:var(--acn-purple);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:16px">CONCLUSION</div>
+              <div style="font-family:'Noto Serif SC',serif;font-size:clamp(20px,3vw,32px);font-weight:700;color:var(--acn-white);line-height:1.5;margin-bottom:24px;padding:0 48px">
+                形成"组织可协同、流程可编排、<br>标准可复制、地图可运营、数据可决策"<br>的一体化服务体系
+              </div>
+              <div style="display:flex;justify-content:center;gap:0;flex-wrap:wrap;margin-top:40px">
+                <div style="flex:1;padding:16px 24px;border-right:1px solid rgba(255,255,255,0.1);text-align:center;min-width:0">
+                  <div style="font-family:'Noto Serif SC',serif;font-size:clamp(18px,2vw,22px);font-weight:900;color:var(--acn-purple);margin-bottom:4px">形</div>
+                  <div style="font-size:clamp(10px,1.2vw,11px);color:rgba(255,255,255,0.4)">总体形态</div>
+                </div>
+                <div style="flex:1;padding:16px 24px;border-right:1px solid rgba(255,255,255,0.1);text-align:center;min-width:0">
+                  <div style="font-family:'Noto Serif SC',serif;font-size:clamp(18px,2vw,22px);font-weight:900;color:var(--acn-purple);margin-bottom:4px">魂</div>
+                  <div style="font-size:clamp(10px,1.2vw,11px);color:rgba(255,255,255,0.4)">AI 统一大脑</div>
+                </div>
+                <div style="flex:1;padding:16px 24px;border-right:1px solid rgba(255,255,255,0.1);text-align:center;min-width:0">
+                  <div style="font-family:'Noto Serif SC',serif;font-size:clamp(18px,2vw,22px);font-weight:900;color:var(--acn-purple);margin-bottom:4px">骨架</div>
+                  <div style="font-size:clamp(10px,1.2vw,11px);color:rgba(255,255,255,0.4)">三层一支撑</div>
+                </div>
+                <div style="flex:1;padding:16px 24px;border-right:1px solid rgba(255,255,255,0.1);text-align:center;min-width:0">
+                  <div style="font-family:'Noto Serif SC',serif;font-size:clamp(18px,2vw,22px);font-weight:900;color:var(--acn-purple);margin-bottom:4px">经络</div>
+                  <div style="font-size:clamp(10px,1.2vw,11px);color:rgba(255,255,255,0.4)">流程编排</div>
+                </div>
+                <div style="flex:1;padding:16px 24px;border-right:1px solid rgba(255,255,255,0.1);text-align:center;min-width:0">
+                  <div style="font-family:'Noto Serif SC',serif;font-size:clamp(18px,2vw,22px);font-weight:900;color:var(--acn-purple);margin-bottom:4px">筋膜</div>
+                  <div style="font-size:clamp(10px,1.2vw,11px);color:rgba(255,255,255,0.4)">标准体系</div>
+                </div>
+                <div style="flex:1;padding:16px 24px;text-align:center;min-width:0">
+                  <div style="font-family:'Noto Serif SC',serif;font-size:clamp(18px,2vw,22px);font-weight:900;color:var(--acn-purple);margin-bottom:4px">眼睛</div>
+                  <div style="font-size:clamp(10px,1.2vw,11px);color:rgba(255,255,255,0.4)">地图运营</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div><!-- end 六位一体体系 -->
+
+        <!-- ══════════════════════════════════════════════════════════
+             三重价值重构 · 北燃服务体系终极目标
+        ══════════════════════════════════════════════════════════ -->
+        <div style="margin-top:80px;padding-bottom:80px" class="reveal">
+          <div class="section-eyebrow">价值重构</div>
+          <h2 class="section-h2">三重价值重构</h2>
+          <p style="font-size:15px;color:var(--acn-gray);line-height:1.8;margin-top:12px;margin-bottom:48px;max-width:800px">北燃今天要建设的，不是更聪明的客服，而是更有感知力、更有组织力、更有安全韧性的服务体系</p>
+
+          <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--acn-gray-light);margin-bottom:48px">
+            <!-- 对外 -->
+            <div style="background:var(--acn-white);padding:40px 32px;border-top:4px solid var(--acn-purple);position:relative;overflow:hidden">
+              <div style="position:absolute;top:-16px;right:-8px;font-family:'DM Mono',monospace;font-size:72px;font-weight:900;color:rgba(161,0,255,0.05);line-height:1;pointer-events:none">外</div>
+              <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.2em;margin-bottom:12px">VALUE 01 · 对外</div>
+              <div style="font-size:20px;font-weight:700;color:var(--acn-black);margin-bottom:4px">感知需求</div>
+              <div style="font-size:20px;font-weight:700;color:var(--acn-black);margin-bottom:24px">提升质效</div>
+              <div style="padding:20px;background:rgba(161,0,255,0.04);border-radius:8px;margin-bottom:16px">
+                <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:6px">从</div>
+                <div style="font-size:13px;font-weight:600;color:var(--acn-dark);margin-bottom:10px">"客户来什么，我处理什么"</div>
+                <div style="display:flex;align-items:center;gap:8px;margin:8px 0 10px"><div style="flex:1;height:1px;background:linear-gradient(to right,var(--acn-gray-light),var(--acn-purple))"></div><div style="width:20px;height:20px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0"><span style="font-size:10px;color:white;font-weight:700">↓</span></div></div>
+                <div style="font-size:12px;color:var(--acn-gray-mid);margin-bottom:6px">变成</div>
+                <div style="font-size:13px;font-weight:700;color:var(--acn-purple)">"我提前知道客户可能需要什么、担心什么、风险在哪里"</div>
+              </div>
+              <div style="display:flex;flex-direction:column;gap:8px">
+                <div style="display:flex;align-items:center;gap:10px;padding:10px 14px;background:var(--acn-off-white);border-radius:4px"><div style="width:6px;height:6px;background:var(--acn-purple);border-radius:50%;flex-shrink:0"></div><div style="font-size:12px;color:var(--acn-dark)">服务从<strong>被动受理</strong>，走向<strong>主动关怀</strong></div></div>
+                <div style="display:flex;align-items:center;gap:10px;padding:10px 14px;background:var(--acn-off-white);border-radius:4px"><div style="width:6px;height:6px;background:var(--acn-purple);border-radius:50%;flex-shrink:0"></div><div style="font-size:12px;color:var(--acn-dark)">从<strong>被动受理</strong>，走向<strong>主动预警</strong></div></div>
+                <div style="display:flex;align-items:center;gap:10px;padding:10px 14px;background:var(--acn-off-white);border-radius:4px"><div style="width:6px;height:6px;background:var(--acn-purple);border-radius:50%;flex-shrink:0"></div><div style="font-size:12px;color:var(--acn-dark)">从<strong>被动受理</strong>，走向<strong>主动履约</strong></div></div>
+              </div>
+            </div>
+
+            <!-- 对上 -->
+            <div style="background:var(--acn-white);padding:40px 32px;border-top:4px solid var(--acn-purple);position:relative;overflow:hidden">
+              <div style="position:absolute;top:-16px;right:-8px;font-family:'DM Mono',monospace;font-size:72px;font-weight:900;color:rgba(161,0,255,0.05);line-height:1;pointer-events:none">上</div>
+              <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.2em;margin-bottom:12px">VALUE 02 · 对上</div>
+              <div style="font-size:20px;font-weight:700;color:var(--acn-black);margin-bottom:4px">满足政府要求</div>
+              <div style="font-size:20px;font-weight:700;color:var(--acn-black);margin-bottom:24px">展现国企担当</div>
+              <div style="padding:20px;background:rgba(161,0,255,0.04);border-radius:8px;margin-bottom:16px">
+                <div style="font-size:13px;color:var(--acn-dark);line-height:1.8;margin-bottom:12px">把政府规范要求、属地协同、用户安全、舆情透明统一纳入一个运营框架</div>
+                <div style="width:100%;height:1px;background:var(--acn-gray-light);margin:12px 0"></div>
+                <div style="display:flex;align-items:flex-start;gap:10px">
+                  <div style="width:20px;height:20px;background:var(--acn-purple);border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:2px"><span style="font-size:10px;color:white;font-weight:700">→</span></div>
+                  <div><div style="font-size:12px;color:var(--acn-gray);line-height:1.7;margin-bottom:6px">不只是<strong style="color:var(--acn-dark)">"响应监管"</strong></div><div style="font-size:13px;font-weight:700;color:var(--acn-purple)">而是"支撑治理"</div></div>
+                </div>
+              </div>
+              <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+                <div style="padding:12px;background:var(--acn-off-white);border-radius:4px;text-align:center"><div style="font-size:11px;font-weight:700;color:var(--acn-dark);margin-bottom:4px">政府规范要求</div><div style="font-size:10px;color:var(--acn-gray-mid)">合规纳入运营</div></div>
+                <div style="padding:12px;background:var(--acn-off-white);border-radius:4px;text-align:center"><div style="font-size:11px;font-weight:700;color:var(--acn-dark);margin-bottom:4px">属地协同</div><div style="font-size:10px;color:var(--acn-gray-mid)">街道社区联动</div></div>
+                <div style="padding:12px;background:var(--acn-off-white);border-radius:4px;text-align:center"><div style="font-size:11px;font-weight:700;color:var(--acn-dark);margin-bottom:4px">用户安全</div><div style="font-size:10px;color:var(--acn-gray-mid)">风险主动管控</div></div>
+                <div style="padding:12px;background:var(--acn-off-white);border-radius:4px;text-align:center"><div style="font-size:11px;font-weight:700;color:var(--acn-dark);margin-bottom:4px">舆情透明</div><div style="font-size:10px;color:var(--acn-gray-mid)">信息及时公开</div></div>
+              </div>
+            </div>
+
+            <!-- 对内 -->
+            <div style="background:var(--acn-white);padding:40px 32px;border-top:4px solid var(--acn-purple);position:relative;overflow:hidden">
+              <div style="position:absolute;top:-16px;right:-8px;font-family:'DM Mono',monospace;font-size:72px;font-weight:900;color:rgba(161,0,255,0.05);line-height:1;pointer-events:none">内</div>
+              <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--acn-purple);letter-spacing:0.2em;margin-bottom:12px">VALUE 03 · 对内</div>
+              <div style="font-size:20px;font-weight:700;color:var(--acn-black);margin-bottom:4px">形成未来</div>
+              <div style="font-size:20px;font-weight:700;color:var(--acn-black);margin-bottom:24px">增长底座</div>
+              <div style="padding:16px 20px;background:rgba(161,0,255,0.06);border-left:3px solid var(--acn-purple);border-radius:0 6px 6px 0;margin-bottom:16px">
+                <div style="font-size:12px;color:var(--acn-dark);line-height:1.8">服务连接了最前端的用户触点、最复杂的现场履约、最关键的安全数据、最直接的商业机会。这意味着它天然可以成为：</div>
+              </div>
+              <div style="display:flex;flex-direction:column;gap:8px;margin-bottom:16px">
+                <div style="display:flex;align-items:center;gap:12px;padding:12px 16px;background:var(--acn-black);border-radius:4px"><div style="width:8px;height:8px;background:var(--acn-purple);border-radius:50%;flex-shrink:0"></div><div style="font-size:12px;color:rgba(255,255,255,0.85);font-weight:600">主业提效的抓手</div></div>
+                <div style="display:flex;align-items:center;gap:12px;padding:12px 16px;background:var(--acn-black);border-radius:4px"><div style="width:8px;height:8px;background:var(--acn-purple);border-radius:50%;flex-shrink:0"></div><div style="font-size:12px;color:rgba(255,255,255,0.85);font-weight:600">第二曲线的入口</div></div>
+                <div style="display:flex;align-items:center;gap:12px;padding:12px 16px;background:var(--acn-black);border-radius:4px"><div style="width:8px;height:8px;background:var(--acn-purple);border-radius:50%;flex-shrink:0"></div><div style="font-size:12px;color:rgba(255,255,255,0.85);font-weight:600">数据资产沉淀的源头</div></div>
+              </div>
+              <div style="padding:14px 16px;background:rgba(161,0,255,0.08);border-radius:6px;border:1px solid rgba(161,0,255,0.2)">
+                <div style="font-size:11px;color:var(--acn-gray);line-height:1.7">客户服务不是成本项，而是北燃<strong style="color:var(--acn-purple)">最容易先改、改了最能外溢、最能带动全局升级的突破口</strong></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 终极目标 -->
+          <div style="background:var(--acn-black);padding:64px 48px;border-radius:12px;position:relative;overflow:hidden">
+            <div style="position:absolute;inset:0;background:repeating-linear-gradient(135deg,rgba(161,0,255,0.02) 0,rgba(161,0,255,0.02) 1px,transparent 1px,transparent 60px);pointer-events:none"></div>
+            <div style="position:absolute;bottom:-80px;right:-80px;width:400px;height:400px;background:radial-gradient(circle,rgba(161,0,255,0.12) 0%,transparent 70%);pointer-events:none"></div>
+            <div style="position:relative;z-index:1">
+              <div style="font-family:'DM Mono',monospace;font-size:11px;color:var(--acn-purple);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:20px">ULTIMATE GOAL</div>
+              <div style="display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center">
+                <div>
+                  <div style="font-family:'Noto Serif SC',serif;font-size:clamp(18px,2.5vw,26px);font-weight:700;color:var(--acn-white);line-height:1.5;margin-bottom:24px">北燃今天要建设的，不是更聪明的客服，而是<span style="color:var(--acn-purple)">更有感知力、更有组织力、更有安全韧性</span>的服务体系</div>
+                  <div style="width:48px;height:3px;background:var(--acn-purple);border-radius:2px;margin-bottom:20px"></div>
+                  <div style="font-size:13px;color:rgba(255,255,255,0.5);line-height:1.8">这套体系的终极目标，是让北燃成为首都800万用户心中——</div>
+                </div>
+                <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
+                  <div style="padding:20px 16px;background:rgba(161,0,255,0.12);border-radius:8px;border:1px solid rgba(161,0,255,0.25);text-align:center">
+                    <div style="font-family:'Noto Serif SC',serif;font-size:22px;font-weight:900;color:var(--acn-purple);margin-bottom:8px">最可靠</div>
+                    <div style="font-size:11px;color:rgba(255,255,255,0.5);line-height:1.5">安全有保障<br>承诺必兑现</div>
+                  </div>
+                  <div style="padding:20px 16px;background:rgba(161,0,255,0.12);border-radius:8px;border:1px solid rgba(161,0,255,0.25);text-align:center">
+                    <div style="font-family:'Noto Serif SC',serif;font-size:22px;font-weight:900;color:var(--acn-purple);margin-bottom:8px">最省心</div>
+                    <div style="font-size:11px;color:rgba(255,255,255,0.5);line-height:1.5">主动服务<br>无需催促</div>
+                  </div>
+                  <div style="padding:20px 16px;background:rgba(161,0,255,0.12);border-radius:8px;border:1px solid rgba(161,0,255,0.25);text-align:center">
+                    <div style="font-family:'Noto Serif SC',serif;font-size:22px;font-weight:900;color:var(--acn-purple);margin-bottom:8px">最懂我</div>
+                    <div style="font-size:11px;color:rgba(255,255,255,0.5);line-height:1.5">了解需求<br>精准响应</div>
+                  </div>
+                  <div style="padding:20px 16px;background:rgba(161,0,255,0.12);border-radius:8px;border:1px solid rgba(161,0,255,0.25);text-align:center">
+                    <div style="font-family:'Noto Serif SC',serif;font-size:22px;font-weight:900;color:var(--acn-purple);margin-bottom:8px">最安全</div>
+                    <div style="font-size:11px;color:rgba(255,255,255,0.5);line-height:1.5">风险预判<br>守护生命</div>
+                  </div>
+                  <div style="padding:20px 16px;background:var(--acn-purple);border-radius:8px;text-align:center;grid-column:span 2">
+                    <div style="font-family:'Noto Serif SC',serif;font-size:22px;font-weight:900;color:var(--acn-white);margin-bottom:8px">最值得长期托付</div>
+                    <div style="font-size:12px;color:rgba(255,255,255,0.75);line-height:1.5">不只是燃气供应商，而是首都市民的能源生活伙伴</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div><!-- end 三重价值重构 -->
+
+      </div>
+    </div>
+  </div>
+</div>
