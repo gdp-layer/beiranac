@@ -1,0 +1,146 @@
+<!-- ═══════════════════════════════════ CONTACT ═══════════════════════════════════ -->
+<div id="contact" class="page-section">
+  <div class="contact-layout">
+    <div class="contact-left">
+      <div style="font-family:'DM Mono',monospace;font-size:11px;color:var(--acn-purple);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:12px">反馈</div>
+      <h1 style="font-family:'Noto Serif SC',serif;font-size:44px;font-weight:900;color:var(--acn-white);line-height:1.1;margin-bottom:20px">留言咨询</h1>
+      <p class="contact-subtitle">如您对本报告有任何疑问、意见或希望深入探讨某一议题，请通过以下表单留言。</p>
+    </div>
+    <div class="contact-right">
+      <form id="feedbackForm">
+        <div class="form-title">提交您的问题与意见</div>
+        <div class="form-subtitle">我们非常重视您的建议和意见，并将在后续的规划中更加重视您反馈的信息。</div>
+        <div class="form-row">
+          <div class="form-group"><label class="form-label">姓名 *</label><input class="form-input" name="name" id="name" type="text" placeholder="请输入姓名" required></div>
+          <div class="form-group"><label class="form-label">职务</label><input class="form-input" name="position" id="position" type="text" placeholder="请输入职务"></div>
+        </div>
+        <div class="form-row">
+          <div class="form-group"><label class="form-label">部门</label><input class="form-input" name="department" id="department" type="text" placeholder="所属部门"></div>
+          <div class="form-group"><label class="form-label">联系方式 *</label><input class="form-input" name="contact" id="contact" type="text" placeholder="邮箱或手机号" required></div>
+        </div>
+        <div class="form-group">
+          <label class="form-label">反馈类别 *</label>
+          <select class="form-select" name="topic" id="topic" required>
+            <option value="">请选择类别</option>
+            <option value="参会感想">参会感想</option>
+            <option value="建议与意见">建议与意见</option>
+            <option value="持续关注的内容">持续关注的内容</option>
+            <option value="希望以后能够看到的内容">希望以后能够看到的内容</option>
+            <option value="其他">其他</option>
+          </select>
+        </div>
+        <div class="form-group"><label class="form-label">留言内容 *</label><textarea class="form-textarea" name="message" id="message" placeholder="请详细描述您的问题、意见或希望进一步探讨的内容..." required></textarea></div>
+        <button type="submit" class="form-submit" id="submitBtn">提交留言 →</button>
+        <div id="formMessage" style="margin-top:16px;padding:12px;border-radius:4px;display:none;"></div>
+        <p class="form-notice" style="margin-top:8px;font-size:12px">⚠ 所有数据机密处理，仅供埃森哲项目团队分析与进一步跟进。</p>
+      </form>
+      <div class="form-success" id="formSuccess" style="display:none;text-align:center;padding:40px 20px;">
+        <div class="form-success-icon" style="font-size:48px;margin-bottom:16px">✅</div>
+        <div class="form-success-title" style="font-size:20px;font-weight:700;color:var(--acn-dark);margin-bottom:8px">提交成功</div>
+        <div class="form-success-text" style="color:var(--acn-gray)">感谢您的反馈</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// Google Apps Script 表单提交 - 最终版本
+window.submitContactForm = function() {
+  const API_URL = "https://script.google.com/macros/s/AKfycbyx9LeEQP-7Bdkt-WNgvw14O7b1IkjUesoZW9YNK1mtEz1TMYm075xgAhVCUL7DaSFK-w/exec"; // ← 替换为您部署后的 URL
+  
+  const form = document.getElementById('feedbackForm');
+  const submitBtn = document.getElementById('submitBtn');
+  const formMessage = document.getElementById('formMessage');
+  const formSuccess = document.getElementById('formSuccess');
+  
+  console.log('📋 开始验证表单数据...');
+  
+  // 验证必填字段
+  const name = document.getElementById('name').value.trim();
+  const contact = document.getElementById('contact').value.trim();
+  const topic = document.getElementById('topic').value;
+  const message = document.getElementById('message').value.trim();
+  
+  if (!name || !contact || !topic || !message) {
+    console.log('❌ 验证失败：缺少必填字段');
+    console.log('  - name:', name ? '✓' : '✗');
+    console.log('  - contact:', contact ? '✓' : '✗');
+    console.log('  - topic:', topic ? '✓' : '✗');
+    console.log('  - message:', message ? '✓' : '✗');
+    
+    formMessage.style.display = 'block';
+    formMessage.style.background = '#fee';
+    formMessage.style.color = '#c00';
+    formMessage.innerHTML = '❌ 请填写所有必填字段（姓名、联系方式、反馈类别、留言内容）';
+    return;
+  }
+  
+  console.log('✅ 表单验证通过');
+  
+  // 禁用按钮
+  submitBtn.disabled = true;
+  submitBtn.textContent = '提交中...';
+  formMessage.style.display = 'none';
+  
+  // 构建请求参数
+  const params = new URLSearchParams({
+    name: name,
+    position: document.getElementById('position').value.trim(),
+    department: document.getElementById('department').value.trim(),
+    topic: topic,
+    message: message,
+    contact: contact
+  });
+  
+  console.log('🚀 开始提交数据到 Google Sheets...');
+  console.log('📦 提交数据:', Object.fromEntries(params));
+  
+  // 显示加载状态
+  submitBtn.textContent = '提交中...';
+  
+  // 使用 GET 请求（Google Apps Script 最可靠的方式）
+  fetch(API_URL + '?' + params.toString(), {
+    method: 'GET',
+    mode: 'no-cors'
+  })
+  .then(response => {
+    console.log('✅ 请求已发送，响应状态:', response.type);
+    
+    // no-cors 模式下无法读取实际响应，但只要不报错就说明成功了
+    form.style.display = 'none';
+    formSuccess.style.display = 'block';
+    
+    console.log('✅ 表单提交成功！数据已写入 Google Sheets');
+  })
+  .catch(error => {
+    console.error('❌ 提交失败:', error);
+    
+    formMessage.style.display = 'block';
+    formMessage.style.background = '#fee';
+    formMessage.style.color = '#c00';
+    formMessage.innerHTML = '❌ 提交失败：网络错误或服务器无响应<br><small style="color:#999">请检查网络连接后重试</small>';
+    
+    submitBtn.disabled = false;
+    submitBtn.textContent = '提交留言 →';
+  });
+};
+
+// 绑定表单提交事件 - 确保在 DOM 加载完成后执行
+document.addEventListener('DOMContentLoaded', function() {
+  console.log('📄 DOM 加载完成，初始化表单监听器...');
+  
+  const form = document.getElementById('feedbackForm');
+  if (form) {
+    console.log('✅ 找到表单元素，绑定 submit 事件');
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      console.log('🖱️ 表单提交事件触发');
+      window.submitContactForm();
+    });
+  } else {
+    console.error('❌ 未找到表单元素 #feedbackForm');
+  }
+});
+
+console.log('📜 联系表单脚本已加载');
+</script>
